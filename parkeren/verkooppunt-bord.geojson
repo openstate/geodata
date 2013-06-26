@@ -1,0 +1,82 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "VERKOOP_PU": 14040, "B_DAT_VERK": "2006\/04\/04", "E_DAT_VERK": null, "OMS": "Corantijnstraat 20 BORD", "DOMEIN_COD": 363, "GMRotation": 0.259445334673444 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.851144112199762, 52.361734338009533 ] ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "VERKOOP_PU": 19080, "B_DAT_VERK": "2007\/01\/31", "E_DAT_VERK": null, "OMS": "Ferguutstraat 20 BORD", "DOMEIN_COD": 363, "GMRotation": 0.257559410271855 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.854900556756726, 52.378116780239949 ] ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "VERKOOP_PU": 19041, "B_DAT_VERK": "2006\/12\/11", "E_DAT_VERK": null, "OMS": "Leeuwendalersweg 29 BORD", "DOMEIN_COD": 363, "GMRotation": 0.263472378844031 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.842672189192319, 52.379590000455515 ] ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "VERKOOP_PU": 19039, "B_DAT_VERK": "2006\/12\/11", "E_DAT_VERK": null, "OMS": "De Schaapherderstraat 50 BORD", "DOMEIN_COD": 363, "GMRotation": 0.263431450876042 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.842740059385873, 52.381578917059571 ] ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "VERKOOP_PU": 19049, "B_DAT_VERK": "2006\/12\/11", "E_DAT_VERK": null, "OMS": "Lauernessestraat 2  BORD", "DOMEIN_COD": 363, "GMRotation": 0.264021671799747 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.841517426831224, 52.381852803092841 ] ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "VERKOOP_PU": 19089, "B_DAT_VERK": "2007\/02\/01", "E_DAT_VERK": null, "OMS": "Jan van Galenstraat 225 BORD", "DOMEIN_COD": 363, "GMRotation": 0.258747854585648 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.852487707472659, 52.373470807261612 ] ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "VERKOOP_PU": 19099, "B_DAT_VERK": "2007\/02\/02", "E_DAT_VERK": null, "OMS": "de Rijpgracht 3 BORD", "DOMEIN_COD": 363, "GMRotation": 0.253882318781545 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.862505545149028, 52.377415871526118 ] ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "VERKOOP_PU": 19155, "B_DAT_VERK": "2007\/02\/07", "E_DAT_VERK": null, "OMS": "van Gentstraat 61 BORD", "DOMEIN_COD": 363, "GMRotation": 0.259196832587524 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.851462017049439, 52.384836266938791 ] ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "VERKOOP_PU": 19169, "B_DAT_VERK": "2007\/02\/08", "E_DAT_VERK": null, "OMS": "Admiraal de Ruyterweg 537 BORD", "DOMEIN_COD": 363, "GMRotation": 0.261455129618935 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.846798367828127, 52.384458266715853 ] ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "VERKOOP_PU": 19172, "B_DAT_VERK": "2007\/02\/08", "E_DAT_VERK": null, "OMS": "Sara Burgerhartstraat 50 BORD", "DOMEIN_COD": 363, "GMRotation": 0.260713245964833 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.848343393004066, 52.383063106258916 ] ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "VERKOOP_PU": 19001, "B_DAT_VERK": "2007\/01\/31", "E_DAT_VERK": null, "OMS": "Robert Scottstraat 36 BORD", "DOMEIN_COD": 363, "GMRotation": 0.26196702216883 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.845828750837316, 52.374244960584733 ] ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "VERKOOP_PU": 19003, "B_DAT_VERK": "2007\/01\/31", "E_DAT_VERK": null, "OMS": "James Rosskade  17 BORD", "DOMEIN_COD": 363, "GMRotation": 0.263125854707105 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.843437006745907, 52.374169924507534 ] ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "VERKOOP_PU": 19005, "B_DAT_VERK": "2007\/01\/31", "E_DAT_VERK": null, "OMS": "Jan van Galenstraat BORD", "DOMEIN_COD": 363, "GMRotation": 0.262143152388613 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.845482516569996, 52.372497820754035 ] ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "VERKOOP_PU": 19009, "B_DAT_VERK": "2007\/01\/31", "E_DAT_VERK": null, "OMS": "Orteliusstraat 329 BORD", "DOMEIN_COD": 363, "GMRotation": 0.26131645258899 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.847177007055346, 52.373747467211963 ] ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "VERKOOP_PU": 19014, "B_DAT_VERK": "2007\/01\/31", "E_DAT_VERK": null, "OMS": "Hoofdweg 431 BORD", "DOMEIN_COD": 363, "GMRotation": 0.260812270359322 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.848221295462333, 52.373627321438597 ] ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "VERKOOP_PU": 19020, "B_DAT_VERK": "2007\/01\/31", "E_DAT_VERK": null, "OMS": "Bos en lommerplantsoen 12 BORD", "DOMEIN_COD": 363, "GMRotation": 0.261674765370326 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.846420489820114, 52.375658441796809 ] ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "VERKOOP_PU": 19101, "B_DAT_VERK": "2007\/02\/05", "E_DAT_VERK": null, "OMS": "Jan Haringstraat 13 BORD", "DOMEIN_COD": 363, "GMRotation": 0.254663293773848 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.860901140169544, 52.376402900511948 ] ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "VERKOOP_PU": 19184, "B_DAT_VERK": "2007\/02\/12", "E_DAT_VERK": null, "OMS": "Hofwijckstraat 42 BORD", "DOMEIN_COD": 363, "GMRotation": 0.259811880644949 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.850228902672847, 52.380302101446574 ] ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "VERKOOP_PU": 19191, "B_DAT_VERK": "2007\/02\/12", "E_DAT_VERK": null, "OMS": "Spaanse Brabanderstraat 31 BORD", "DOMEIN_COD": 363, "GMRotation": 0.260326709794243 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.849170057971995, 52.379400111588275 ] ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "VERKOOP_PU": 19192, "B_DAT_VERK": "2007\/02\/12", "E_DAT_VERK": null, "OMS": "Granidastraat 22 BORD", "DOMEIN_COD": 363, "GMRotation": 0.260550037658462 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.848710555504772, 52.379278439901007 ] ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "VERKOOP_PU": 19194, "B_DAT_VERK": "2007\/02\/12", "E_DAT_VERK": null, "OMS": "Trouringstraat 28 BORD", "DOMEIN_COD": 363, "GMRotation": 0.261022028585061 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.847735354389273, 52.379205493890716 ] ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "VERKOOP_PU": 19119, "B_DAT_VERK": "2007\/02\/06", "E_DAT_VERK": null, "OMS": "Bestevaerstraat 174 BORD", "DOMEIN_COD": 363, "GMRotation": 0.255847742755563 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.858435542711593, 52.378457503098581 ] ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "VERKOOP_PU": 19121, "B_DAT_VERK": "2007\/02\/06", "E_DAT_VERK": null, "OMS": "Anna van Burenstraat 4 BORD", "DOMEIN_COD": 363, "GMRotation": 0.255115424479739 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.859931159341925, 52.380459309804067 ] ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "VERKOOP_PU": 19132, "B_DAT_VERK": "2007\/02\/06", "E_DAT_VERK": null, "OMS": "Adolf van Nassautraat 2 BORD", "DOMEIN_COD": 363, "GMRotation": 0.256501455007235 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.857044676111099, 52.383296624352965 ] ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "VERKOOP_PU": 13624, "B_DAT_VERK": "2013\/06\/03", "E_DAT_VERK": null, "OMS": "Eerste van Swindenstraat 32 BORD", "DOMEIN_COD": 363, "GMRotation": 0.223272312809605 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.92585568214545, 52.362261729349711 ] ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "VERKOOP_PU": 15571, "B_DAT_VERK": "2013\/06\/03", "E_DAT_VERK": null, "OMS": "Middenweg 81 BORD", "DOMEIN_COD": 363, "GMRotation": 0.220274235373501 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.932116968939144, 52.352633337082878 ] ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "VERKOOP_PU": 13123, "B_DAT_VERK": "2013\/06\/03", "E_DAT_VERK": null, "OMS": "Cornelis Troostplein 23 BORD", "DOMEIN_COD": 363, "GMRotation": 0.240032424717644 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.891328147242317, 52.350564323147672 ] ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "VERKOOP_PU": 13644, "B_DAT_VERK": "2013\/06\/03", "E_DAT_VERK": null, "OMS": "Zeeburgerdijk 49 BORD", "DOMEIN_COD": 363, "GMRotation": 0.220990057467147 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.930544655850276, 52.36590593765662 ] ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "VERKOOP_PU": 13707, "B_DAT_VERK": "2013\/06\/03", "E_DAT_VERK": null, "OMS": "Pretoriusstraat 54 BORD", "DOMEIN_COD": 363, "GMRotation": 0.224725452447361 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.922907752917274, 52.355155080660282 ] ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "VERKOOP_PU": 15086, "B_DAT_VERK": "2013\/06\/03", "E_DAT_VERK": null, "OMS": "Marius Bauerstraat 67 BORD", "DOMEIN_COD": 363, "GMRotation": 0.265218089279096 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.8392104151445, 52.36275793231858 ] ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "VERKOOP_PU": 15550, "B_DAT_VERK": "2013\/06\/03", "E_DAT_VERK": null, "OMS": "Archimedesweg 92 BORD", "DOMEIN_COD": 363, "GMRotation": 0.216429222601073 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.94003973503969, 52.35539497829253 ] ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "VERKOOP_PU": 15615, "B_DAT_VERK": "2013\/06\/03", "E_DAT_VERK": null, "OMS": "Fahrenheitsingen 2 BORD", "DOMEIN_COD": 363, "GMRotation": 0.225155242581991 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.922111519866961, 52.342826342736245 ] ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "VERKOOP_PU": 14084, "B_DAT_VERK": "2006\/04\/04", "E_DAT_VERK": null, "OMS": "Marco Polostraat  34 BORD", "DOMEIN_COD": 363, "GMRotation": 0.256733987149248 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.856708647200358, 52.36596936792894 ] ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "VERKOOP_PU": 19025, "B_DAT_VERK": "2006\/12\/11", "E_DAT_VERK": null, "OMS": "J van Arteveldestraat  15 BORD", "DOMEIN_COD": 363, "GMRotation": 0.26414272577801 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.841314764098818, 52.376516346865877 ] ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "VERKOOP_PU": 19027, "B_DAT_VERK": "2006\/12\/11", "E_DAT_VERK": null, "OMS": "Ernest Staesstraat  48 BORD", "DOMEIN_COD": 363, "GMRotation": 0.265027024370895 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.839482520268192, 52.376906217161093 ] ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "VERKOOP_PU": 19028, "B_DAT_VERK": "2006\/12\/11", "E_DAT_VERK": null, "OMS": "Leeuwensalersweg  107 BORD", "DOMEIN_COD": 363, "GMRotation": 0.265658388783485 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.83817968045883, 52.376892773908658 ] ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "VERKOOP_PU": 19029, "B_DAT_VERK": "2006\/12\/11", "E_DAT_VERK": null, "OMS": "Leeuwendalersweg  75 BORD", "DOMEIN_COD": 363, "GMRotation": 0.265391366584081 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.838714589334969, 52.378334729760851 ] ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "VERKOOP_PU": 14051, "B_DAT_VERK": "2006\/04\/04", "E_DAT_VERK": null, "OMS": "Orteliusstraat  191 BORD", "DOMEIN_COD": 363, "GMRotation": 0.260307974669731 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.849294298000091, 52.369698934783258 ] ] } }
+
+]
+}
