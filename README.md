@@ -1,7 +1,7 @@
-geodata
-=======
+Open geodata
+============
 
-geodata
+In deze repository vind je een aantal interessante open geo data sets. Alle datasets zijn in het Leaflet/Tilemill/CartoDB vriendelijke [GeoJSON](http://www.geojson.org/geojson-spec.html#examples) formaat en coordinatenstelsel (lat,lng) opgeslagen.
 
 
 Presentaties
