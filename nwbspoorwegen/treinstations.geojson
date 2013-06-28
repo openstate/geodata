@@ -1,0 +1,892 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "svk_id": 2, "naam": "HEEZE" }, "geometry": { "type": "Point", "coordinates": [ 5.56966907557508, 51.384967486299473 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "svk_id": 7, "naam": "DEURNE" }, "geometry": { "type": "Point", "coordinates": [ 5.789840749250113, 51.45579448820731 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "svk_id": 9, "naam": "HORST-SEVENUM" }, "geometry": { "type": "Point", "coordinates": [ 6.042728983253578, 51.426242455392277 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "svk_id": 12, "naam": "BEST" }, "geometry": { "type": "Point", "coordinates": [ 5.390182850225072, 51.508551941833538 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "svk_id": 13, "naam": "EINDHOVEN BEUKENLAAN" }, "geometry": { "type": "Point", "coordinates": [ 5.456599288336157, 51.450752189728185 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "svk_id": 20, "naam": "EINDHOVEN" }, "geometry": { "type": "Point", "coordinates": [ 5.48108303806637, 51.443139592400989 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "svk_id": 20, "naam": "PHILIPS STADION" }, "geometry": { "type": "Point", "coordinates": [ 5.468511205587367, 51.442852422445661 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "svk_id": 118, "naam": "BEILEN" }, "geometry": { "type": "Point", "coordinates": [ 6.520906931746214, 52.853891942706646 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "svk_id": 205, "naam": "ZAANDAM KOGERVELD" }, "geometry": { "type": "Point", "coordinates": [ 4.820814116669564, 52.456740432319222 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "svk_id": 212, "naam": "KOOG BLOEMWIJK" }, "geometry": { "type": "Point", "coordinates": [ 4.805631512287515, 52.458931806128881 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "svk_id": 212, "naam": "WORMERMEER" }, "geometry": { "type": "Point", "coordinates": [ 4.792600031986145, 52.48925418521393 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "svk_id": 212, "naam": "KOOG-ZAANDIJK" }, "geometry": { "type": "Point", "coordinates": [ 4.805128081238148, 52.469238104733762 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "svk_id": 212, "naam": "KROMMENIE-ASSENDELFT" }, "geometry": { "type": "Point", "coordinates": [ 4.761815856610123, 52.494299682375868 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "svk_id": 213, "naam": "PURMEREND" }, "geometry": { "type": "Point", "coordinates": [ 4.953770347406691, 52.503218009161458 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "svk_id": 213, "naam": "PURMEREND OVERWHERE" }, "geometry": { "type": "Point", "coordinates": [ 4.968595491482697, 52.511593576033093 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "svk_id": 213, "naam": "PURMEREND WEIDEVENNE" }, "geometry": { "type": "Point", "coordinates": [ 4.9363528328433, 52.496968581416652 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "svk_id": 303, "naam": "NIJVERDAL" }, "geometry": { "type": "Point", "coordinates": [ 6.471254260117566, 52.36565162594146 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "svk_id": 305, "naam": "DEVENTER COLMSCHATE" }, "geometry": { "type": "Point", "coordinates": [ 6.214591829232045, 52.250322269233507 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "svk_id": 307, "naam": "RIJSSEN" }, "geometry": { "type": "Point", "coordinates": [ 6.520178017973317, 52.312188747061292 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "svk_id": 343, "naam": "RAALTE" }, "geometry": { "type": "Point", "coordinates": [ 6.277773111165399, 52.391695443812196 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "svk_id": 346, "naam": "ENSCHEDE" }, "geometry": { "type": "Point", "coordinates": [ 6.88907038579159, 52.222411797219678 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "svk_id": 346, "naam": "ENSCHEDE DRIENERLO" }, "geometry": { "type": "Point", "coordinates": [ 6.838871230379298, 52.237377310239182 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "svk_id": 348, "naam": "HOLTEN" }, "geometry": { "type": "Point", "coordinates": [ 6.420073871634877, 52.283875609202603 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "svk_id": 349, "naam": "HEINO" }, "geometry": { "type": "Point", "coordinates": [ 6.221543878019515, 52.42726582545049 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "svk_id": 404, "naam": "HILVERSUM" }, "geometry": { "type": "Point", "coordinates": [ 5.182553469478056, 52.225460178675938 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "svk_id": 410, "naam": "BUSSUM-ZUID" }, "geometry": { "type": "Point", "coordinates": [ 5.162662005744418, 52.266435449723559 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "svk_id": 410, "naam": "NAARDEN-BUSSUM" }, "geometry": { "type": "Point", "coordinates": [ 5.157257424372686, 52.280428007343815 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "svk_id": 411, "naam": "HILVERSUM-NOORD" }, "geometry": { "type": "Point", "coordinates": [ 5.174182694206608, 52.237534022886592 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "svk_id": 412, "naam": "ALMERE PARKWIJK" }, "geometry": { "type": "Point", "coordinates": [ 5.244974669361215, 52.376760840533386 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "svk_id": 412, "naam": "ALMERE - OOSTERVAARDERS" }, "geometry": { "type": "Point", "coordinates": [ 5.30021418997301, 52.403129748305375 ] } }
+,
+{ "type": "Feature", "id": 30, "properties": { "svk_id": 412, "naam": "ALMERE BUITEN" }, "geometry": { "type": "Point", "coordinates": [ 5.277959732194488, 52.394150781426923 ] } }
+,
+{ "type": "Feature", "id": 31, "properties": { "svk_id": 412, "naam": "ALMERE MUZIEKWIJK" }, "geometry": { "type": "Point", "coordinates": [ 5.190751334211065, 52.367749686804295 ] } }
+,
+{ "type": "Feature", "id": 32, "properties": { "svk_id": 412, "naam": "ALMERE CS" }, "geometry": { "type": "Point", "coordinates": [ 5.218355935703563, 52.375126113275662 ] } }
+,
+{ "type": "Feature", "id": 33, "properties": { "svk_id": 413, "naam": "HOLLANDSCHE RADING" }, "geometry": { "type": "Point", "coordinates": [ 5.179276793560406, 52.178025415122903 ] } }
+,
+{ "type": "Feature", "id": 34, "properties": { "svk_id": 418, "naam": "WEESP" }, "geometry": { "type": "Point", "coordinates": [ 5.042956407560189, 52.312785113445628 ] } }
+,
+{ "type": "Feature", "id": 35, "properties": { "svk_id": 422, "naam": "HILVERSUM SPORTPARK" }, "geometry": { "type": "Point", "coordinates": [ 5.187152828713642, 52.216013735824909 ] } }
+,
+{ "type": "Feature", "id": 36, "properties": { "svk_id": 501, "naam": "LEERDAM" }, "geometry": { "type": "Point", "coordinates": [ 5.093129466373862, 51.894625792608181 ] } }
+,
+{ "type": "Feature", "id": 37, "properties": { "svk_id": 502, "naam": "ARKEL" }, "geometry": { "type": "Point", "coordinates": [ 4.992128612728136, 51.871750864847385 ] } }
+,
+{ "type": "Feature", "id": 38, "properties": { "svk_id": 503, "naam": "GORINCHEM" }, "geometry": { "type": "Point", "coordinates": [ 4.968230020694583, 51.834051480190944 ] } }
+,
+{ "type": "Feature", "id": 39, "properties": { "svk_id": 505, "naam": "ZWIJNDRECHT" }, "geometry": { "type": "Point", "coordinates": [ 4.642073537364804, 51.814897480012384 ] } }
+,
+{ "type": "Feature", "id": 40, "properties": { "svk_id": 507, "naam": "BARENDRECHT" }, "geometry": { "type": "Point", "coordinates": [ 4.551676152436699, 51.855681922286799 ] } }
+,
+{ "type": "Feature", "id": 41, "properties": { "svk_id": 517, "naam": "HARDINXVELD-GIESSENDAM" }, "geometry": { "type": "Point", "coordinates": [ 4.835767641643209, 51.830456941694528 ] } }
+,
+{ "type": "Feature", "id": 42, "properties": { "svk_id": 517, "naam": "GIESSENDAM - WEST" }, "geometry": { "type": "Point", "coordinates": [ 4.815472671579917, 51.829524999058577 ] } }
+,
+{ "type": "Feature", "id": 43, "properties": { "svk_id": 518, "naam": "SLIEDRECHT" }, "geometry": { "type": "Point", "coordinates": [ 4.779086078922509, 51.829448928771896 ] } }
+,
+{ "type": "Feature", "id": 44, "properties": { "svk_id": 520, "naam": "DORDRECHT ZUID" }, "geometry": { "type": "Point", "coordinates": [ 4.670960550000471, 51.789477561223073 ] } }
+,
+{ "type": "Feature", "id": 45, "properties": { "svk_id": 602, "naam": "HEEMSTEDE-AARDENHOUT" }, "geometry": { "type": "Point", "coordinates": [ 4.60679782010956, 52.359552382594003 ] } }
+,
+{ "type": "Feature", "id": 46, "properties": { "svk_id": 604, "naam": "HILLEGOM" }, "geometry": { "type": "Point", "coordinates": [ 4.570989905183022, 52.307388002298147 ] } }
+,
+{ "type": "Feature", "id": 47, "properties": { "svk_id": 608, "naam": "DE VINK" }, "geometry": { "type": "Point", "coordinates": [ 4.45629785854045, 52.14714976390507 ] } }
+,
+{ "type": "Feature", "id": 48, "properties": { "svk_id": 609, "naam": "VOORSCHOTEN" }, "geometry": { "type": "Point", "coordinates": [ 4.432640105192266, 52.125415258464123 ] } }
+,
+{ "type": "Feature", "id": 49, "properties": { "svk_id": 610, "naam": "VOORHOUT" }, "geometry": { "type": "Point", "coordinates": [ 4.48442834900622, 52.224037095831974 ] } }
+,
+{ "type": "Feature", "id": 50, "properties": { "svk_id": 618, "naam": "LEIDEN" }, "geometry": { "type": "Point", "coordinates": [ 4.482174879485065, 52.166541399982691 ] } }
+,
+{ "type": "Feature", "id": 51, "properties": { "svk_id": 620, "naam": "LEIDEN LAMMENSCHANS" }, "geometry": { "type": "Point", "coordinates": [ 4.493465978248363, 52.146502431943411 ] } }
+,
+{ "type": "Feature", "id": 52, "properties": { "svk_id": 626, "naam": "GOUDA-GOVERWELLE" }, "geometry": { "type": "Point", "coordinates": [ 4.740164717791994, 52.015140853333179 ] } }
+,
+{ "type": "Feature", "id": 53, "properties": { "svk_id": 627, "naam": "GOUDA" }, "geometry": { "type": "Point", "coordinates": [ 4.70589715791072, 52.017401361366382 ] } }
+,
+{ "type": "Feature", "id": 54, "properties": { "svk_id": 635, "naam": "NIEUWERKERK AAN DE IJSSEL" }, "geometry": { "type": "Point", "coordinates": [ 4.617179644404205, 51.965530108697934 ] } }
+,
+{ "type": "Feature", "id": 55, "properties": { "svk_id": 636, "naam": "CAPELLE SCHOLLEVAAR" }, "geometry": { "type": "Point", "coordinates": [ 4.584540238583453, 51.954175062028611 ] } }
+,
+{ "type": "Feature", "id": 56, "properties": { "svk_id": 637, "naam": "ROTTERDAM ALEXANDER" }, "geometry": { "type": "Point", "coordinates": [ 4.554585482292067, 51.95187245783579 ] } }
+,
+{ "type": "Feature", "id": 57, "properties": { "svk_id": 637, "naam": "ROTTERDAM NOORD" }, "geometry": { "type": "Point", "coordinates": [ 4.482709725297865, 51.942415824589169 ] } }
+,
+{ "type": "Feature", "id": 58, "properties": { "svk_id": 642, "naam": "WADDINXVEEN" }, "geometry": { "type": "Point", "coordinates": [ 4.649885976135435, 52.043768518035442 ] } }
+,
+{ "type": "Feature", "id": 59, "properties": { "svk_id": 642, "naam": "WADDINXVEEN-NOORD" }, "geometry": { "type": "Point", "coordinates": [ 4.648525104179147, 52.05468989106307 ] } }
+,
+{ "type": "Feature", "id": 60, "properties": { "svk_id": 643, "naam": "BOSKOOP" }, "geometry": { "type": "Point", "coordinates": [ 4.646705065916903, 52.077455028767623 ] } }
+,
+{ "type": "Feature", "id": 61, "properties": { "svk_id": 647, "naam": "BODEGRAVEN" }, "geometry": { "type": "Point", "coordinates": [ 4.74511049429806, 52.081717507053696 ] } }
+,
+{ "type": "Feature", "id": 62, "properties": { "svk_id": 656, "naam": "SASSENHEIM" }, "geometry": { "type": "Point", "coordinates": [ 4.516730944690736, 52.215263362942238 ] } }
+,
+{ "type": "Feature", "id": 63, "properties": { "svk_id": 710, "naam": "DEN HAAG MARIAHOEVE" }, "geometry": { "type": "Point", "coordinates": [ 4.369740626571227, 52.090831435090408 ] } }
+,
+{ "type": "Feature", "id": 64, "properties": { "svk_id": 714, "naam": "LEIDSCHENDAM-VOORBURG" }, "geometry": { "type": "Point", "coordinates": [ 4.38308344841977, 52.07695057568165 ] } }
+,
+{ "type": "Feature", "id": 65, "properties": { "svk_id": 714, "naam": "VOORBURG T LOO" }, "geometry": { "type": "Point", "coordinates": [ 4.365295891577959, 52.082485308935979 ] } }
+,
+{ "type": "Feature", "id": 66, "properties": { "svk_id": 720, "naam": "PIJNACKER" }, "geometry": { "type": "Point", "coordinates": [ 4.43795070295218, 52.019096213900426 ] } }
+,
+{ "type": "Feature", "id": 67, "properties": { "svk_id": 721, "naam": "BERKEL EN RODENRIJS" }, "geometry": { "type": "Point", "coordinates": [ 4.460696898024895, 51.975916134514954 ] } }
+,
+{ "type": "Feature", "id": 68, "properties": { "svk_id": 722, "naam": "ROTTERDAM-WILGENPLAS" }, "geometry": { "type": "Point", "coordinates": [ 4.462293305087441, 51.96131307836287 ] } }
+,
+{ "type": "Feature", "id": 69, "properties": { "svk_id": 724, "naam": "DRIEMANSPOLDER" }, "geometry": { "type": "Point", "coordinates": [ 4.477288275580055, 52.048448988538411 ] } }
+,
+{ "type": "Feature", "id": 70, "properties": { "svk_id": 724, "naam": "ZOETERMEER-OOST" }, "geometry": { "type": "Point", "coordinates": [ 4.493162087877264, 52.046368358947987 ] } }
+,
+{ "type": "Feature", "id": 71, "properties": { "svk_id": 724, "naam": "ZOETERMEER" }, "geometry": { "type": "Point", "coordinates": [ 4.476706916974637, 52.047644511958346 ] } }
+,
+{ "type": "Feature", "id": 72, "properties": { "svk_id": 728, "naam": "ZOETERMEER - CENTRUM-WEST" }, "geometry": { "type": "Point", "coordinates": [ 4.484148830247262, 52.060596202875644 ] } }
+,
+{ "type": "Feature", "id": 73, "properties": { "svk_id": 728, "naam": "ZOETERMEER - VOORWEG" }, "geometry": { "type": "Point", "coordinates": [ 4.47134148514859, 52.062640791085002 ] } }
+,
+{ "type": "Feature", "id": 74, "properties": { "svk_id": 733, "naam": "VOORBURG" }, "geometry": { "type": "Point", "coordinates": [ 4.359896036475747, 52.066458652850045 ] } }
+,
+{ "type": "Feature", "id": 75, "properties": { "svk_id": 734, "naam": "DELFT" }, "geometry": { "type": "Point", "coordinates": [ 4.356460942690806, 52.005997415304996 ] } }
+,
+{ "type": "Feature", "id": 76, "properties": { "svk_id": 734, "naam": "DELFT-ZUID" }, "geometry": { "type": "Point", "coordinates": [ 4.365029668853784, 51.990467642811566 ] } }
+,
+{ "type": "Feature", "id": 77, "properties": { "svk_id": 737, "naam": "DENHAAGMOERWIJK" }, "geometry": { "type": "Point", "coordinates": [ 4.308381942644317, 52.054185136185239 ] } }
+,
+{ "type": "Feature", "id": 78, "properties": { "svk_id": 742, "naam": "RIJSWIJK" }, "geometry": { "type": "Point", "coordinates": [ 4.320328820450568, 52.038889019990918 ] } }
+,
+{ "type": "Feature", "id": 79, "properties": { "svk_id": 806, "naam": "SCHEEMDA" }, "geometry": { "type": "Point", "coordinates": [ 6.978742064733656, 53.165000021611839 ] } }
+,
+{ "type": "Feature", "id": 80, "properties": { "svk_id": 829, "naam": "SAUWERD" }, "geometry": { "type": "Point", "coordinates": [ 6.540377226579783, 53.291198624905114 ] } }
+,
+{ "type": "Feature", "id": 81, "properties": { "svk_id": 831, "naam": "BAFLO" }, "geometry": { "type": "Point", "coordinates": [ 6.518931777970803, 53.361502329657192 ] } }
+,
+{ "type": "Feature", "id": 82, "properties": { "svk_id": 902, "naam": "WOLVEGA" }, "geometry": { "type": "Point", "coordinates": [ 6.00399496883536, 52.880826076986381 ] } }
+,
+{ "type": "Feature", "id": 83, "properties": { "svk_id": 905, "naam": "AKKRUM" }, "geometry": { "type": "Point", "coordinates": [ 5.843719800736371, 53.046545794694964 ] } }
+,
+{ "type": "Feature", "id": 84, "properties": { "svk_id": 905, "naam": "GROUW-JIRNSUM" }, "geometry": { "type": "Point", "coordinates": [ 5.822805424488664, 53.088831416166272 ] } }
+,
+{ "type": "Feature", "id": 85, "properties": { "svk_id": 913, "naam": "HARLINGEN" }, "geometry": { "type": "Point", "coordinates": [ 5.424996043135242, 53.170400502968526 ] } }
+,
+{ "type": "Feature", "id": 86, "properties": { "svk_id": 913, "naam": "HARLINGEN HAVEN" }, "geometry": { "type": "Point", "coordinates": [ 5.411330426103945, 53.174537458895109 ] } }
+,
+{ "type": "Feature", "id": 87, "properties": { "svk_id": 927, "naam": "MANTGUM" }, "geometry": { "type": "Point", "coordinates": [ 5.713559976490982, 53.130235756044648 ] } }
+,
+{ "type": "Feature", "id": 88, "properties": { "svk_id": 928, "naam": "IJLST" }, "geometry": { "type": "Point", "coordinates": [ 5.616167462905755, 53.014793923520571 ] } }
+,
+{ "type": "Feature", "id": 89, "properties": { "svk_id": 932, "naam": "SNEEK" }, "geometry": { "type": "Point", "coordinates": [ 5.651724383138261, 53.032638871402177 ] } }
+,
+{ "type": "Feature", "id": 90, "properties": { "svk_id": 932, "naam": "SNEEK NOORD" }, "geometry": { "type": "Point", "coordinates": [ 5.662742870536007, 53.040081438414461 ] } }
+,
+{ "type": "Feature", "id": 91, "properties": { "svk_id": 1001, "naam": "DEN HELDER" }, "geometry": { "type": "Point", "coordinates": [ 4.760969284271932, 52.955448304639127 ] } }
+,
+{ "type": "Feature", "id": 92, "properties": { "svk_id": 1003, "naam": "SCHAGEN" }, "geometry": { "type": "Point", "coordinates": [ 4.805331767724106, 52.784511969035321 ] } }
+,
+{ "type": "Feature", "id": 93, "properties": { "svk_id": 1006, "naam": "ALKMAAR" }, "geometry": { "type": "Point", "coordinates": [ 4.739760223438764, 52.637791595085993 ] } }
+,
+{ "type": "Feature", "id": 94, "properties": { "svk_id": 1008, "naam": "CASTRICUM" }, "geometry": { "type": "Point", "coordinates": [ 4.658847804966982, 52.545849203888764 ] } }
+,
+{ "type": "Feature", "id": 95, "properties": { "svk_id": 1011, "naam": "UITGEEST" }, "geometry": { "type": "Point", "coordinates": [ 4.701481672498323, 52.522187279248058 ] } }
+,
+{ "type": "Feature", "id": 96, "properties": { "svk_id": 1013, "naam": "DRIEHUIS" }, "geometry": { "type": "Point", "coordinates": [ 4.638020701474947, 52.442262554004309 ] } }
+,
+{ "type": "Feature", "id": 97, "properties": { "svk_id": 1015, "naam": "HEEMSKERK" }, "geometry": { "type": "Point", "coordinates": [ 4.686967336683364, 52.495301513684829 ] } }
+,
+{ "type": "Feature", "id": 98, "properties": { "svk_id": 1021, "naam": "HOORN-KERSENBOOGERD" }, "geometry": { "type": "Point", "coordinates": [ 5.08549841036034, 52.653658540372795 ] } }
+,
+{ "type": "Feature", "id": 99, "properties": { "svk_id": 1022, "naam": "BOVENKARSPEL-FLORA" }, "geometry": { "type": "Point", "coordinates": [ 5.25459300876413, 52.696187862721693 ] } }
+,
+{ "type": "Feature", "id": 100, "properties": { "svk_id": 1022, "naam": "BOVENKARSPEL-GROOTSBROEK" }, "geometry": { "type": "Point", "coordinates": [ 5.237896209182972, 52.695107648830913 ] } }
+,
+{ "type": "Feature", "id": 101, "properties": { "svk_id": 1023, "naam": "ENKHUIZEN" }, "geometry": { "type": "Point", "coordinates": [ 5.286522118668207, 52.699409469680731 ] } }
+,
+{ "type": "Feature", "id": 102, "properties": { "svk_id": 1029, "naam": "HEILOO" }, "geometry": { "type": "Point", "coordinates": [ 4.700458382769624, 52.59932988443574 ] } }
+,
+{ "type": "Feature", "id": 103, "properties": { "svk_id": 1030, "naam": "OBDAM" }, "geometry": { "type": "Point", "coordinates": [ 4.907524710455123, 52.678157023792771 ] } }
+,
+{ "type": "Feature", "id": 104, "properties": { "svk_id": 1032, "naam": "ANNA PAUWLONA" }, "geometry": { "type": "Point", "coordinates": [ 4.811236741237075, 52.8674977790997 ] } }
+,
+{ "type": "Feature", "id": 105, "properties": { "svk_id": 1035, "naam": "ALKMAAR NOORD" }, "geometry": { "type": "Point", "coordinates": [ 4.764314763275908, 52.643926253217018 ] } }
+,
+{ "type": "Feature", "id": 106, "properties": { "svk_id": 1036, "naam": "HOOGKARSPEL" }, "geometry": { "type": "Point", "coordinates": [ 5.184473417599429, 52.690688003717277 ] } }
+,
+{ "type": "Feature", "id": 107, "properties": { "svk_id": 1102, "naam": "SANTPOORT ZUID" }, "geometry": { "type": "Point", "coordinates": [ 4.631349173479666, 52.420388839228004 ] } }
+,
+{ "type": "Feature", "id": 108, "properties": { "svk_id": 1104, "naam": "OVERVEEN" }, "geometry": { "type": "Point", "coordinates": [ 4.607597921181281, 52.390952915728207 ] } }
+,
+{ "type": "Feature", "id": 109, "properties": { "svk_id": 1111, "naam": "HAARLEM SPAARNWOUDE" }, "geometry": { "type": "Point", "coordinates": [ 4.672270356175992, 52.382810329734198 ] } }
+,
+{ "type": "Feature", "id": 110, "properties": { "svk_id": 1123, "naam": "AMSTERDAM ZUID W.T.C." }, "geometry": { "type": "Point", "coordinates": [ 4.870976094245759, 52.338781525864249 ] } }
+,
+{ "type": "Feature", "id": 111, "properties": { "svk_id": 1123, "naam": "AMSTERDAM R.A.I." }, "geometry": { "type": "Point", "coordinates": [ 4.890277128485113, 52.336958737888352 ] } }
+,
+{ "type": "Feature", "id": 112, "properties": { "svk_id": 1124, "naam": "AMSTERDAM CENTRAAL" }, "geometry": { "type": "Point", "coordinates": [ 4.899408088273806, 52.379275016133121 ] } }
+,
+{ "type": "Feature", "id": 113, "properties": { "svk_id": 1129, "naam": "AMSTERDAM AMSTEL" }, "geometry": { "type": "Point", "coordinates": [ 4.917691013373976, 52.34615729351647 ] } }
+,
+{ "type": "Feature", "id": 114, "properties": { "svk_id": 1129, "naam": "SPAKLERWEG" }, "geometry": { "type": "Point", "coordinates": [ 4.920322576043827, 52.340652374376489 ] } }
+,
+{ "type": "Feature", "id": 115, "properties": { "svk_id": 1130, "naam": "VAN DER MADEWEG" }, "geometry": { "type": "Point", "coordinates": [ 4.930461120245257, 52.329258073646152 ] } }
+,
+{ "type": "Feature", "id": 116, "properties": { "svk_id": 1132, "naam": "DUIVENDRECHT" }, "geometry": { "type": "Point", "coordinates": [ 4.936870069440268, 52.323205199391332 ] } }
+,
+{ "type": "Feature", "id": 117, "properties": { "svk_id": 1132, "naam": "STRANDVLIET" }, "geometry": { "type": "Point", "coordinates": [ 4.940582840263273, 52.318872334963025 ] } }
+,
+{ "type": "Feature", "id": 118, "properties": { "svk_id": 1141, "naam": "DIEMEN ZUID" }, "geometry": { "type": "Point", "coordinates": [ 4.955766624683204, 52.330331001118701 ] } }
+,
+{ "type": "Feature", "id": 119, "properties": { "svk_id": 1146, "naam": "DIEMEN" }, "geometry": { "type": "Point", "coordinates": [ 4.967626402134265, 52.34521239094007 ] } }
+,
+{ "type": "Feature", "id": 120, "properties": { "svk_id": 1151, "naam": "ABCOUDE" }, "geometry": { "type": "Point", "coordinates": [ 4.981683470217903, 52.272893889209044 ] } }
+,
+{ "type": "Feature", "id": 121, "properties": { "svk_id": 1157, "naam": "BREUKELEN" }, "geometry": { "type": "Point", "coordinates": [ 4.990641485234051, 52.1688331497825 ] } }
+,
+{ "type": "Feature", "id": 122, "properties": { "svk_id": 1161, "naam": "WOERDEN" }, "geometry": { "type": "Point", "coordinates": [ 4.894038199571801, 52.085293027429884 ] } }
+,
+{ "type": "Feature", "id": 123, "properties": { "svk_id": 1163, "naam": "MAARSSEN" }, "geometry": { "type": "Point", "coordinates": [ 5.032941336541154, 52.135972712679262 ] } }
+,
+{ "type": "Feature", "id": 124, "properties": { "svk_id": 1169, "naam": "UTRECHT - TERWIJDE" }, "geometry": { "type": "Point", "coordinates": [ 5.042433610625485, 52.100443284853178 ] } }
+,
+{ "type": "Feature", "id": 125, "properties": { "svk_id": 1170, "naam": "VLEUTEN" }, "geometry": { "type": "Point", "coordinates": [ 5.010565135531992, 52.102953152198296 ] } }
+,
+{ "type": "Feature", "id": 126, "properties": { "svk_id": 1188, "naam": "BLOEMENDAAL" }, "geometry": { "type": "Point", "coordinates": [ 4.627328232728925, 52.403699670915564 ] } }
+,
+{ "type": "Feature", "id": 127, "properties": { "svk_id": 1201, "naam": "SCHIEDAM NIEUWLAND" }, "geometry": { "type": "Point", "coordinates": [ 4.382253945481916, 51.922229203454002 ] } }
+,
+{ "type": "Feature", "id": 128, "properties": { "svk_id": 1202, "naam": "MAASSLUIS" }, "geometry": { "type": "Point", "coordinates": [ 4.254840522548069, 51.916027917263435 ] } }
+,
+{ "type": "Feature", "id": 129, "properties": { "svk_id": 1202, "naam": "MAASSLUIS WEST" }, "geometry": { "type": "Point", "coordinates": [ 4.236104657328888, 51.925634957081883 ] } }
+,
+{ "type": "Feature", "id": 130, "properties": { "svk_id": 1203, "naam": "HOEK VAN HOLLAND HAVEN" }, "geometry": { "type": "Point", "coordinates": [ 4.131036409178708, 51.974781389855096 ] } }
+,
+{ "type": "Feature", "id": 131, "properties": { "svk_id": 1203, "naam": "HOEK VAN HOLLAND STRAND" }, "geometry": { "type": "Point", "coordinates": [ 4.120475117130014, 51.98127513925251 ] } }
+,
+{ "type": "Feature", "id": 132, "properties": { "svk_id": 1225, "naam": "ROTTERDAM BERGWEG" }, "geometry": { "type": "Point", "coordinates": [ 4.470244743814131, 51.932476622618879 ] } }
+,
+{ "type": "Feature", "id": 133, "properties": { "svk_id": 1225, "naam": "ROTTERDAM HOFPLEIN" }, "geometry": { "type": "Point", "coordinates": [ 4.479244254529218, 51.926784698767527 ] } }
+,
+{ "type": "Feature", "id": 134, "properties": { "svk_id": 1231, "naam": "VLAARDINGEN CENTRUM" }, "geometry": { "type": "Point", "coordinates": [ 4.343331611563118, 51.903031259627731 ] } }
+,
+{ "type": "Feature", "id": 135, "properties": { "svk_id": 1231, "naam": "VLAARDINGEN OOST" }, "geometry": { "type": "Point", "coordinates": [ 4.3615109068123, 51.910127268130978 ] } }
+,
+{ "type": "Feature", "id": 136, "properties": { "svk_id": 1231, "naam": "VLAARDINGEN WEST" }, "geometry": { "type": "Point", "coordinates": [ 4.312945720016677, 51.90425854445094 ] } }
+,
+{ "type": "Feature", "id": 137, "properties": { "svk_id": 1306, "naam": "KRABBENDIJKE" }, "geometry": { "type": "Point", "coordinates": [ 4.11709471366524, 51.433325279164677 ] } }
+,
+{ "type": "Feature", "id": 138, "properties": { "svk_id": 1306, "naam": "RILLAND-BATH" }, "geometry": { "type": "Point", "coordinates": [ 4.160715355638022, 51.422636026300218 ] } }
+,
+{ "type": "Feature", "id": 139, "properties": { "svk_id": 1306, "naam": "KRUININGEN-YERSEKE" }, "geometry": { "type": "Point", "coordinates": [ 4.037613999954914, 51.465056525081707 ] } }
+,
+{ "type": "Feature", "id": 140, "properties": { "svk_id": 1307, "naam": "KAPELLE-BIEZELINGE" }, "geometry": { "type": "Point", "coordinates": [ 3.955395053604851, 51.480923730824728 ] } }
+,
+{ "type": "Feature", "id": 141, "properties": { "svk_id": 1316, "naam": "ARNEMUIDEN" }, "geometry": { "type": "Point", "coordinates": [ 3.669093518227947, 51.501487385043795 ] } }
+,
+{ "type": "Feature", "id": 142, "properties": { "svk_id": 1316, "naam": "MIDDELBURG" }, "geometry": { "type": "Point", "coordinates": [ 3.617294368352074, 51.494797908353299 ] } }
+,
+{ "type": "Feature", "id": 143, "properties": { "svk_id": 1317, "naam": "VLISSINGEN" }, "geometry": { "type": "Point", "coordinates": [ 3.595379328216716, 51.445636018860554 ] } }
+,
+{ "type": "Feature", "id": 144, "properties": { "svk_id": 1317, "naam": "VLISSINGEN SOUBURG" }, "geometry": { "type": "Point", "coordinates": [ 3.595122294708311, 51.464602112678136 ] } }
+,
+{ "type": "Feature", "id": 145, "properties": { "svk_id": 1407, "naam": "TILBURG-WEST" }, "geometry": { "type": "Point", "coordinates": [ 5.052057260484707, 51.564889000425239 ] } }
+,
+{ "type": "Feature", "id": 146, "properties": { "svk_id": 1407, "naam": "TILBURG - REESHOF" }, "geometry": { "type": "Point", "coordinates": [ 4.992222942974197, 51.574070834486548 ] } }
+,
+{ "type": "Feature", "id": 147, "properties": { "svk_id": 1408, "naam": "TILBURG" }, "geometry": { "type": "Point", "coordinates": [ 5.085589565928942, 51.560476978535426 ] } }
+,
+{ "type": "Feature", "id": 148, "properties": { "svk_id": 1420, "naam": "ZEVENBERGEN" }, "geometry": { "type": "Point", "coordinates": [ 4.609046158040538, 51.640309156858784 ] } }
+,
+{ "type": "Feature", "id": 149, "properties": { "svk_id": 1421, "naam": "BREDA-PRINSENBEEK" }, "geometry": { "type": "Point", "coordinates": [ 4.720810392538291, 51.606598692419382 ] } }
+,
+{ "type": "Feature", "id": 150, "properties": { "svk_id": 1428, "naam": "OISTERWIJK" }, "geometry": { "type": "Point", "coordinates": [ 5.194100762788991, 51.582207242882077 ] } }
+,
+{ "type": "Feature", "id": 151, "properties": { "svk_id": 1432, "naam": "OUDENBOSCH" }, "geometry": { "type": "Point", "coordinates": [ 4.53238093560323, 51.58724267408892 ] } }
+,
+{ "type": "Feature", "id": 152, "properties": { "svk_id": 1502, "naam": "BUNDE" }, "geometry": { "type": "Point", "coordinates": [ 5.736653800785944, 50.896797786884242 ] } }
+,
+{ "type": "Feature", "id": 153, "properties": { "svk_id": 1509, "naam": "GELEEN-OOST" }, "geometry": { "type": "Point", "coordinates": [ 5.843153206216919, 50.96707081671007 ] } }
+,
+{ "type": "Feature", "id": 154, "properties": { "svk_id": 1510, "naam": "SPAUBEEK" }, "geometry": { "type": "Point", "coordinates": [ 5.849097405295668, 50.943685073699278 ] } }
+,
+{ "type": "Feature", "id": 155, "properties": { "svk_id": 1511, "naam": "SCHINNEN" }, "geometry": { "type": "Point", "coordinates": [ 5.874687158739028, 50.939004770594423 ] } }
+,
+{ "type": "Feature", "id": 156, "properties": { "svk_id": 1512, "naam": "HOENSBROEK" }, "geometry": { "type": "Point", "coordinates": [ 5.930871154785256, 50.905360537271868 ] } }
+,
+{ "type": "Feature", "id": 157, "properties": { "svk_id": 1513, "naam": "DE KISSEL" }, "geometry": { "type": "Point", "coordinates": [ 5.993976207931225, 50.890123975338291 ] } }
+,
+{ "type": "Feature", "id": 158, "properties": { "svk_id": 1517, "naam": "EYGELSHOVEN - MARKT" }, "geometry": { "type": "Point", "coordinates": [ 6.0577346683706, 50.896133487282498 ] } }
+,
+{ "type": "Feature", "id": 159, "properties": { "svk_id": 1520, "naam": "CHEVREMONT" }, "geometry": { "type": "Point", "coordinates": [ 6.059516713801763, 50.876045404562795 ] } }
+,
+{ "type": "Feature", "id": 160, "properties": { "svk_id": 1520, "naam": "EYGELSHOVEN" }, "geometry": { "type": "Point", "coordinates": [ 6.045890461739284, 50.889939954600784 ] } }
+,
+{ "type": "Feature", "id": 161, "properties": { "svk_id": 1520, "naam": "KERKRADE CENTRUM" }, "geometry": { "type": "Point", "coordinates": [ 6.057234966270944, 50.861712147882244 ] } }
+,
+{ "type": "Feature", "id": 162, "properties": { "svk_id": 1522, "naam": "KLIMMEN-RANSDAAL" }, "geometry": { "type": "Point", "coordinates": [ 5.890156649736592, 50.866254111608647 ] } }
+,
+{ "type": "Feature", "id": 163, "properties": { "svk_id": 1522, "naam": "VOERENDAAL" }, "geometry": { "type": "Point", "coordinates": [ 5.930159322041565, 50.887107319921292 ] } }
+,
+{ "type": "Feature", "id": 164, "properties": { "svk_id": 1524, "naam": "SCHIN OP GEUL" }, "geometry": { "type": "Point", "coordinates": [ 5.871639315829276, 50.856085515484914 ] } }
+,
+{ "type": "Feature", "id": 165, "properties": { "svk_id": 1526, "naam": "HOUTHEM-ST.GERLACH" }, "geometry": { "type": "Point", "coordinates": [ 5.797607453752807, 50.873379298126714 ] } }
+,
+{ "type": "Feature", "id": 166, "properties": { "svk_id": 1526, "naam": "VALKENBURG" }, "geometry": { "type": "Point", "coordinates": [ 5.831640577662244, 50.869828728224647 ] } }
+,
+{ "type": "Feature", "id": 167, "properties": { "svk_id": 1533, "naam": "REUVER" }, "geometry": { "type": "Point", "coordinates": [ 6.07910095360509, 51.28275668581616 ] } }
+,
+{ "type": "Feature", "id": 168, "properties": { "svk_id": 1555, "naam": "SWALMEN" }, "geometry": { "type": "Point", "coordinates": [ 6.031250611903629, 51.234553738165758 ] } }
+,
+{ "type": "Feature", "id": 169, "properties": { "svk_id": 1559, "naam": "NUTH" }, "geometry": { "type": "Point", "coordinates": [ 5.893437616531275, 50.919490204469447 ] } }
+,
+{ "type": "Feature", "id": 170, "properties": { "svk_id": 1560, "naam": "ECHT" }, "geometry": { "type": "Point", "coordinates": [ 5.879100729879565, 51.100930679255328 ] } }
+,
+{ "type": "Feature", "id": 171, "properties": { "svk_id": 1562, "naam": "MEERSSEN" }, "geometry": { "type": "Point", "coordinates": [ 5.74991723698493, 50.882563548307395 ] } }
+,
+{ "type": "Feature", "id": 172, "properties": { "svk_id": 1618, "naam": "BOXMEER" }, "geometry": { "type": "Point", "coordinates": [ 5.939346462194378, 51.644432439639857 ] } }
+,
+{ "type": "Feature", "id": 173, "properties": { "svk_id": 1619, "naam": "VIERLINGSBEEK" }, "geometry": { "type": "Point", "coordinates": [ 5.9968358365992, 51.591940197660762 ] } }
+,
+{ "type": "Feature", "id": 174, "properties": { "svk_id": 1625, "naam": "ZALTBOMMEL" }, "geometry": { "type": "Point", "coordinates": [ 5.263270197782711, 51.808442456263613 ] } }
+,
+{ "type": "Feature", "id": 175, "properties": { "svk_id": 1626, "naam": "RAVENSTEIN" }, "geometry": { "type": "Point", "coordinates": [ 5.635988549416427, 51.794221672532025 ] } }
+,
+{ "type": "Feature", "id": 176, "properties": { "svk_id": 1704, "naam": "NIJMEGEN LENT" }, "geometry": { "type": "Point", "coordinates": [ 5.859400144139165, 51.864164363954167 ] } }
+,
+{ "type": "Feature", "id": 177, "properties": { "svk_id": 1706, "naam": "ELST" }, "geometry": { "type": "Point", "coordinates": [ 5.855178134843863, 51.915803627787348 ] } }
+,
+{ "type": "Feature", "id": 178, "properties": { "svk_id": 1708, "naam": "ARNHEM - ZUID" }, "geometry": { "type": "Point", "coordinates": [ 5.851993387200372, 51.955004708942113 ] } }
+,
+{ "type": "Feature", "id": 179, "properties": { "svk_id": 1731, "naam": "BAARN" }, "geometry": { "type": "Point", "coordinates": [ 5.28065337353128, 52.208305689430816 ] } }
+,
+{ "type": "Feature", "id": 180, "properties": { "svk_id": 1760, "naam": "RHENEN" }, "geometry": { "type": "Point", "coordinates": [ 5.578501596881454, 51.958573198048562 ] } }
+,
+{ "type": "Feature", "id": 181, "properties": { "svk_id": 1767, "naam": "UTRECHT LUNETTEN" }, "geometry": { "type": "Point", "coordinates": [ 5.14427496294849, 52.065410707542767 ] } }
+,
+{ "type": "Feature", "id": 182, "properties": { "svk_id": 1769, "naam": "BUNNIK" }, "geometry": { "type": "Point", "coordinates": [ 5.194494932205434, 52.063166600953501 ] } }
+,
+{ "type": "Feature", "id": 183, "properties": { "svk_id": 1776, "naam": "ZETTEN-ANDELST" }, "geometry": { "type": "Point", "coordinates": [ 5.722373300211625, 51.919700153533235 ] } }
+,
+{ "type": "Feature", "id": 184, "properties": { "svk_id": 1779, "naam": "HEMMEN-DODEWAARD" }, "geometry": { "type": "Point", "coordinates": [ 5.673359933504623, 51.922319543237208 ] } }
+,
+{ "type": "Feature", "id": 185, "properties": { "svk_id": 1779, "naam": "OPHEUSDEN" }, "geometry": { "type": "Point", "coordinates": [ 5.637474530723718, 51.926023764391481 ] } }
+,
+{ "type": "Feature", "id": 186, "properties": { "svk_id": 1780, "naam": "CULEMBORG" }, "geometry": { "type": "Point", "coordinates": [ 5.227314388028626, 51.946288745976865 ] } }
+,
+{ "type": "Feature", "id": 187, "properties": { "svk_id": 1782, "naam": "BEESD" }, "geometry": { "type": "Point", "coordinates": [ 5.194441131450659, 51.899392637477142 ] } }
+,
+{ "type": "Feature", "id": 188, "properties": { "svk_id": 1785, "naam": "RHEDEN" }, "geometry": { "type": "Point", "coordinates": [ 6.031065812821606, 52.010087017225153 ] } }
+,
+{ "type": "Feature", "id": 189, "properties": { "svk_id": 1785, "naam": "VELP" }, "geometry": { "type": "Point", "coordinates": [ 5.98030553081882, 51.994750064645132 ] } }
+,
+{ "type": "Feature", "id": 190, "properties": { "svk_id": 1796, "naam": "SOEST" }, "geometry": { "type": "Point", "coordinates": [ 5.309988513488582, 52.173320704157561 ] } }
+,
+{ "type": "Feature", "id": 191, "properties": { "svk_id": 1796, "naam": "SOEST ZUID" }, "geometry": { "type": "Point", "coordinates": [ 5.303497668833217, 52.165631623904233 ] } }
+,
+{ "type": "Feature", "id": 192, "properties": { "svk_id": 1796, "naam": "SOESTDIJK" }, "geometry": { "type": "Point", "coordinates": [ 5.300276980746477, 52.183317490378812 ] } }
+,
+{ "type": "Feature", "id": 193, "properties": { "svk_id": 1802, "naam": "DUIVEN" }, "geometry": { "type": "Point", "coordinates": [ 6.015197982935042, 51.943146187755005 ] } }
+,
+{ "type": "Feature", "id": 194, "properties": { "svk_id": 1804, "naam": "HOUTEN" }, "geometry": { "type": "Point", "coordinates": [ 5.167729951622487, 52.034627496345827 ] } }
+,
+{ "type": "Feature", "id": 195, "properties": { "svk_id": 1911, "naam": "LICHTENVOORDE" }, "geometry": { "type": "Point", "coordinates": [ 6.596569862682064, 52.011862786722162 ] } }
+,
+{ "type": "Feature", "id": 196, "properties": { "svk_id": 1912, "naam": "WINTERSWIJK - WEST" }, "geometry": { "type": "Point", "coordinates": [ 6.703224762077883, 51.974903170874079 ] } }
+,
+{ "type": "Feature", "id": 197, "properties": { "svk_id": 1916, "naam": "AALTEN" }, "geometry": { "type": "Point", "coordinates": [ 6.577731002608929, 51.921247709713704 ] } }
+,
+{ "type": "Feature", "id": 198, "properties": { "svk_id": 1919, "naam": "WEHL" }, "geometry": { "type": "Point", "coordinates": [ 6.210839380798533, 51.956346800799089 ] } }
+,
+{ "type": "Feature", "id": 199, "properties": { "svk_id": 1922, "naam": "ZEVENAAR" }, "geometry": { "type": "Point", "coordinates": [ 6.072151648979142, 51.923098298360173 ] } }
+,
+{ "type": "Feature", "id": 200, "properties": { "svk_id": 1933, "naam": "TWELLO" }, "geometry": { "type": "Point", "coordinates": [ 6.099741167476196, 52.238088687979932 ] } }
+,
+{ "type": "Feature", "id": 201, "properties": { "svk_id": 2015, "naam": "OLST" }, "geometry": { "type": "Point", "coordinates": [ 6.113370205360443, 52.334666441252985 ] } }
+,
+{ "type": "Feature", "id": 202, "properties": { "svk_id": 2016, "naam": "WIJHE" }, "geometry": { "type": "Point", "coordinates": [ 6.140489704010283, 52.390293829572975 ] } }
+,
+{ "type": "Feature", "id": 203, "properties": { "svk_id": 2018, "naam": "DALFSEN" }, "geometry": { "type": "Point", "coordinates": [ 6.258497674597707, 52.498462137151094 ] } }
+,
+{ "type": "Feature", "id": 204, "properties": { "svk_id": 2022, "naam": "MARIENBERG" }, "geometry": { "type": "Point", "coordinates": [ 6.575530134509613, 52.509532586550364 ] } }
+,
+{ "type": "Feature", "id": 205, "properties": { "svk_id": 2026, "naam": "KAMPEN" }, "geometry": { "type": "Point", "coordinates": [ 5.92197299352522, 52.559675531663103 ] } }
+,
+{ "type": "Feature", "id": 206, "properties": { "svk_id": 2032, "naam": "WORKUM" }, "geometry": { "type": "Point", "coordinates": [ 5.456446244825679, 52.972040417493581 ] } }
+,
+{ "type": "Feature", "id": 207, "properties": { "svk_id": 2032, "naam": "STAVOREN" }, "geometry": { "type": "Point", "coordinates": [ 5.359663925475967, 52.886501204224594 ] } }
+,
+{ "type": "Feature", "id": 208, "properties": { "svk_id": 2032, "naam": "HINDELOOPEN" }, "geometry": { "type": "Point", "coordinates": [ 5.423042166804087, 52.946501995512314 ] } }
+,
+{ "type": "Feature", "id": 209, "properties": { "svk_id": 2032, "naam": "KOUDUM-MOLKWERUM" }, "geometry": { "type": "Point", "coordinates": [ 5.410577895719688, 52.902815263567838 ] } }
+,
+{ "type": "Feature", "id": 210, "properties": { "svk_id": 4003, "naam": "HEERLEN" }, "geometry": { "type": "Point", "coordinates": [ 5.97497048731235, 50.890807476221397 ] } }
+,
+{ "type": "Feature", "id": 211, "properties": { "svk_id": 4006, "naam": "VENLO" }, "geometry": { "type": "Point", "coordinates": [ 6.171422886395511, 51.364959142377373 ] } }
+,
+{ "type": "Feature", "id": 212, "properties": { "svk_id": 4007, "naam": "BLERICK" }, "geometry": { "type": "Point", "coordinates": [ 6.15507015137513, 51.372449519151765 ] } }
+,
+{ "type": "Feature", "id": 213, "properties": { "svk_id": 4017, "naam": "WEERT" }, "geometry": { "type": "Point", "coordinates": [ 5.703829950974696, 51.248697619431901 ] } }
+,
+{ "type": "Feature", "id": 214, "properties": { "svk_id": 4026, "naam": "DORDRECHT STADSPOLDER" }, "geometry": { "type": "Point", "coordinates": [ 4.717057327689054, 51.801857664647365 ] } }
+,
+{ "type": "Feature", "id": 215, "properties": { "svk_id": 4035, "naam": "ROTTERDAM CENTRAAL" }, "geometry": { "type": "Point", "coordinates": [ 4.46970456750231, 51.924864430995626 ] } }
+,
+{ "type": "Feature", "id": 216, "properties": { "svk_id": 4038, "naam": "SCHIEDAM - CENTRUM" }, "geometry": { "type": "Point", "coordinates": [ 4.410658846240321, 51.921641656365971 ] } }
+,
+{ "type": "Feature", "id": 217, "properties": { "svk_id": 4041, "naam": "ROTTERDAM KLEIWEG" }, "geometry": { "type": "Point", "coordinates": [ 4.465935937386109, 51.946177712656798 ] } }
+,
+{ "type": "Feature", "id": 218, "properties": { "svk_id": 4042, "naam": "DEN HAAG CENTRAAL" }, "geometry": { "type": "Point", "coordinates": [ 4.326098106521648, 52.079597203669032 ] } }
+,
+{ "type": "Feature", "id": 219, "properties": { "svk_id": 4043, "naam": "DEN HAAG HS" }, "geometry": { "type": "Point", "coordinates": [ 4.321718215096637, 52.069319525738443 ] } }
+,
+{ "type": "Feature", "id": 220, "properties": { "svk_id": 4045, "naam": "DEN HAAG LAAN VAN NOI" }, "geometry": { "type": "Point", "coordinates": [ 4.342487633000189, 52.078709959621982 ] } }
+,
+{ "type": "Feature", "id": 221, "properties": { "svk_id": 4049, "naam": "ZOETERMEER - BUYTENWEG" }, "geometry": { "type": "Point", "coordinates": [ 4.478607951031156, 52.066750896907834 ] } }
+,
+{ "type": "Feature", "id": 222, "properties": { "svk_id": 4049, "naam": "ZOETERMEER - CENTRUM-WEST" }, "geometry": { "type": "Point", "coordinates": [ 4.484148830247262, 52.060596202875644 ] } }
+,
+{ "type": "Feature", "id": 223, "properties": { "svk_id": 4049, "naam": "ZOETERMEER" }, "geometry": { "type": "Point", "coordinates": [ 4.476706916974637, 52.047644511958346 ] } }
+,
+{ "type": "Feature", "id": 224, "properties": { "svk_id": 4049, "naam": "ZOETERMEER - MEERZICHT" }, "geometry": { "type": "Point", "coordinates": [ 4.469690619870048, 52.054960696369363 ] } }
+,
+{ "type": "Feature", "id": 225, "properties": { "svk_id": 4049, "naam": "DRIEMANSPOLDER" }, "geometry": { "type": "Point", "coordinates": [ 4.477288275580055, 52.048448988538411 ] } }
+,
+{ "type": "Feature", "id": 226, "properties": { "svk_id": 4049, "naam": "DORP" }, "geometry": { "type": "Point", "coordinates": [ 4.491507984864505, 52.05399606459217 ] } }
+,
+{ "type": "Feature", "id": 227, "properties": { "svk_id": 4049, "naam": "ZOETERMEE - DELFTSEWALLEN" }, "geometry": { "type": "Point", "coordinates": [ 4.487195450924402, 52.050934046484009 ] } }
+,
+{ "type": "Feature", "id": 228, "properties": { "svk_id": 4049, "naam": "ZOETERMEE - DE LEYENS" }, "geometry": { "type": "Point", "coordinates": [ 4.495307471545666, 52.071858149233471 ] } }
+,
+{ "type": "Feature", "id": 229, "properties": { "svk_id": 4050, "naam": "ZOETERMEER - CENTRUM-WEST" }, "geometry": { "type": "Point", "coordinates": [ 4.484148830247262, 52.060596202875644 ] } }
+,
+{ "type": "Feature", "id": 230, "properties": { "svk_id": 4050, "naam": "ZOETERMEER - LEIDSEWALLEN" }, "geometry": { "type": "Point", "coordinates": [ 4.509584480000683, 52.069026117531415 ] } }
+,
+{ "type": "Feature", "id": 231, "properties": { "svk_id": 4050, "naam": "ZOETERMEER - SEGHWAERT" }, "geometry": { "type": "Point", "coordinates": [ 4.515229498851435, 52.063009776207295 ] } }
+,
+{ "type": "Feature", "id": 232, "properties": { "svk_id": 4050, "naam": "ZOETERMEER - STADHUIS" }, "geometry": { "type": "Point", "coordinates": [ 4.492811336606978, 52.061008045179342 ] } }
+,
+{ "type": "Feature", "id": 233, "properties": { "svk_id": 4050, "naam": "ZOETERMEER - PALENSTEIN" }, "geometry": { "type": "Point", "coordinates": [ 4.50642822981865, 52.059690455618252 ] } }
+,
+{ "type": "Feature", "id": 234, "properties": { "svk_id": 4058, "naam": "UTRECHT CENTRAAL" }, "geometry": { "type": "Point", "coordinates": [ 5.109861613698172, 52.089949623641104 ] } }
+,
+{ "type": "Feature", "id": 235, "properties": { "svk_id": 4062, "naam": "AMERSFOORT" }, "geometry": { "type": "Point", "coordinates": [ 5.371816958983834, 52.153715272563268 ] } }
+,
+{ "type": "Feature", "id": 236, "properties": { "svk_id": 4072, "naam": "HENGELO" }, "geometry": { "type": "Point", "coordinates": [ 6.794471737070264, 52.261717556813956 ] } }
+,
+{ "type": "Feature", "id": 237, "properties": { "svk_id": 4080, "naam": "WIERDEN" }, "geometry": { "type": "Point", "coordinates": [ 6.591351002202995, 52.361443321645446 ] } }
+,
+{ "type": "Feature", "id": 238, "properties": { "svk_id": 4085, "naam": "ZWOLLE" }, "geometry": { "type": "Point", "coordinates": [ 6.091497972274836, 52.504928239449804 ] } }
+,
+{ "type": "Feature", "id": 239, "properties": { "svk_id": 4093, "naam": "AMSTERDAM BIJLMER ARENA" }, "geometry": { "type": "Point", "coordinates": [ 4.947113301064148, 52.312341570157244 ] } }
+,
+{ "type": "Feature", "id": 240, "properties": { "svk_id": 4093, "naam": "HOLENDRECHT" }, "geometry": { "type": "Point", "coordinates": [ 4.959694037737598, 52.298259165449771 ] } }
+,
+{ "type": "Feature", "id": 241, "properties": { "svk_id": 4093, "naam": "BULLEWIJK" }, "geometry": { "type": "Point", "coordinates": [ 4.951661214112451, 52.306996827733208 ] } }
+,
+{ "type": "Feature", "id": 242, "properties": { "svk_id": 4094, "naam": "AMSTERDAM MUIDERPOORT" }, "geometry": { "type": "Point", "coordinates": [ 4.932393909844671, 52.360684935435124 ] } }
+,
+{ "type": "Feature", "id": 243, "properties": { "svk_id": 4096, "naam": "AMSTERDAM SLOTERDIJK" }, "geometry": { "type": "Point", "coordinates": [ 4.836559044640903, 52.389128606199286 ] } }
+,
+{ "type": "Feature", "id": 244, "properties": { "svk_id": 4099, "naam": "HAARLEM" }, "geometry": { "type": "Point", "coordinates": [ 4.638885531341989, 52.387622072303792 ] } }
+,
+{ "type": "Feature", "id": 245, "properties": { "svk_id": 4102, "naam": "ZANDVOORT" }, "geometry": { "type": "Point", "coordinates": [ 4.533284303691452, 52.375232254489212 ] } }
+,
+{ "type": "Feature", "id": 246, "properties": { "svk_id": 4105, "naam": "ALPHEN AAN DEN RIJN" }, "geometry": { "type": "Point", "coordinates": [ 4.657877521350776, 52.124084228993013 ] } }
+,
+{ "type": "Feature", "id": 247, "properties": { "svk_id": 4106, "naam": "ZAANDAM" }, "geometry": { "type": "Point", "coordinates": [ 4.813663789862579, 52.43858701772745 ] } }
+,
+{ "type": "Feature", "id": 248, "properties": { "svk_id": 4108, "naam": "HEERHUGOWAARD" }, "geometry": { "type": "Point", "coordinates": [ 4.822653712300616, 52.66984896409793 ] } }
+,
+{ "type": "Feature", "id": 249, "properties": { "svk_id": 4110, "naam": "DEN HELDER ZUID" }, "geometry": { "type": "Point", "coordinates": [ 4.763923104289944, 52.933069297847538 ] } }
+,
+{ "type": "Feature", "id": 250, "properties": { "svk_id": 4117, "naam": "GRONINGEN" }, "geometry": { "type": "Point", "coordinates": [ 6.565369435280407, 53.210717517300203 ] } }
+,
+{ "type": "Feature", "id": 251, "properties": { "svk_id": 4119, "naam": "HAREN" }, "geometry": { "type": "Point", "coordinates": [ 6.617570438613652, 53.176089609454507 ] } }
+,
+{ "type": "Feature", "id": 252, "properties": { "svk_id": 4122, "naam": "ROODESCHOOL" }, "geometry": { "type": "Point", "coordinates": [ 6.759408158877521, 53.418667329523522 ] } }
+,
+{ "type": "Feature", "id": 253, "properties": { "svk_id": 4128, "naam": "EINDHOVEN" }, "geometry": { "type": "Point", "coordinates": [ 5.48108303806637, 51.443139592400989 ] } }
+,
+{ "type": "Feature", "id": 254, "properties": { "svk_id": 4291, "naam": "GRACHT" }, "geometry": { "type": "Point", "coordinates": [ 6.02507992512742, 50.853587443383837 ] } }
+,
+{ "type": "Feature", "id": 255, "properties": { "svk_id": 4298, "naam": "SIMPELVELD" }, "geometry": { "type": "Point", "coordinates": [ 5.978102430700782, 50.831501496196523 ] } }
+,
+{ "type": "Feature", "id": 256, "properties": { "svk_id": 4302, "naam": "SCHIN OP GEUL" }, "geometry": { "type": "Point", "coordinates": [ 5.871639315829276, 50.856085515484914 ] } }
+,
+{ "type": "Feature", "id": 257, "properties": { "svk_id": 4307, "naam": "MAASTRICHT" }, "geometry": { "type": "Point", "coordinates": [ 5.70535040707989, 50.850604615733779 ] } }
+,
+{ "type": "Feature", "id": 258, "properties": { "svk_id": 4318, "naam": "MAASTRICHT RANDWIJCK" }, "geometry": { "type": "Point", "coordinates": [ 5.717289859046101, 50.838328342383804 ] } }
+,
+{ "type": "Feature", "id": 259, "properties": { "svk_id": 4323, "naam": "GILZE-RIJEN" }, "geometry": { "type": "Point", "coordinates": [ 4.926074308927062, 51.583713858452306 ] } }
+,
+{ "type": "Feature", "id": 260, "properties": { "svk_id": 4332, "naam": "BREDA" }, "geometry": { "type": "Point", "coordinates": [ 4.780248670902141, 51.595371591644493 ] } }
+,
+{ "type": "Feature", "id": 261, "properties": { "svk_id": 4365, "naam": "S HERTOGENBOSCH" }, "geometry": { "type": "Point", "coordinates": [ 5.293616803201127, 51.690425343760467 ] } }
+,
+{ "type": "Feature", "id": 262, "properties": { "svk_id": 4372, "naam": "ETTEN-LEUR" }, "geometry": { "type": "Point", "coordinates": [ 4.635168122744272, 51.574878974080356 ] } }
+,
+{ "type": "Feature", "id": 263, "properties": { "svk_id": 4381, "naam": "ROOSENDAAL" }, "geometry": { "type": "Point", "coordinates": [ 4.459091438039764, 51.5406327961377 ] } }
+,
+{ "type": "Feature", "id": 264, "properties": { "svk_id": 4409, "naam": "CUIJK" }, "geometry": { "type": "Point", "coordinates": [ 5.874150041540951, 51.726959011771854 ] } }
+,
+{ "type": "Feature", "id": 265, "properties": { "svk_id": 4427, "naam": "HOORN" }, "geometry": { "type": "Point", "coordinates": [ 5.055430775560942, 52.645067729859292 ] } }
+,
+{ "type": "Feature", "id": 266, "properties": { "svk_id": 4430, "naam": "OPPERDOES" }, "geometry": { "type": "Point", "coordinates": [ 5.07405968414835, 52.760396924212422 ] } }
+,
+{ "type": "Feature", "id": 267, "properties": { "svk_id": 4430, "naam": "MEDEMBLIK" }, "geometry": { "type": "Point", "coordinates": [ 5.106993418889265, 52.773821768771342 ] } }
+,
+{ "type": "Feature", "id": 268, "properties": { "svk_id": 4430, "naam": "TWISK" }, "geometry": { "type": "Point", "coordinates": [ 5.071722500968606, 52.750096619945289 ] } }
+,
+{ "type": "Feature", "id": 269, "properties": { "svk_id": 4430, "naam": "MIDWOUD - OOSTWOUD" }, "geometry": { "type": "Point", "coordinates": [ 5.070364687457055, 52.726734445982594 ] } }
+,
+{ "type": "Feature", "id": 270, "properties": { "svk_id": 4430, "naam": "WOGNUM - NIBBIXWOUD" }, "geometry": { "type": "Point", "coordinates": [ 5.033078626170343, 52.683415826868 ] } }
+,
+{ "type": "Feature", "id": 271, "properties": { "svk_id": 4434, "naam": "SANTPOORT NOORD" }, "geometry": { "type": "Point", "coordinates": [ 4.632742688586538, 52.434373752981678 ] } }
+,
+{ "type": "Feature", "id": 272, "properties": { "svk_id": 4446, "naam": "BEVERWIJK" }, "geometry": { "type": "Point", "coordinates": [ 4.657083742099231, 52.478709870755026 ] } }
+,
+{ "type": "Feature", "id": 273, "properties": { "svk_id": 4475, "naam": "GRONINGEN - EUROPARK" }, "geometry": { "type": "Point", "coordinates": [ 6.587655639302718, 53.204133191773685 ] } }
+,
+{ "type": "Feature", "id": 274, "properties": { "svk_id": 4490, "naam": "APELDOORN" }, "geometry": { "type": "Point", "coordinates": [ 5.970504115490856, 52.209257690388576 ] } }
+,
+{ "type": "Feature", "id": 275, "properties": { "svk_id": 4492, "naam": "DIEREN" }, "geometry": { "type": "Point", "coordinates": [ 6.103215122143269, 52.045057468606586 ] } }
+,
+{ "type": "Feature", "id": 276, "properties": { "svk_id": 4511, "naam": "APELDOORN DE MATEN" }, "geometry": { "type": "Point", "coordinates": [ 6.000284327892311, 52.20552213281838 ] } }
+,
+{ "type": "Feature", "id": 277, "properties": { "svk_id": 4512, "naam": "APELDOORN - OSSEVELD" }, "geometry": { "type": "Point", "coordinates": [ 6.003971202919038, 52.215187385574133 ] } }
+,
+{ "type": "Feature", "id": 278, "properties": { "svk_id": 4532, "naam": "AKZO ZOUT CHEMIE" }, "geometry": { "type": "Point", "coordinates": [ 6.793058961165545, 52.246826565127826 ] } }
+,
+{ "type": "Feature", "id": 279, "properties": { "svk_id": 4538, "naam": "EMMEN BARGERES" }, "geometry": { "type": "Point", "coordinates": [ 6.889496578779376, 52.757673321373446 ] } }
+,
+{ "type": "Feature", "id": 280, "properties": { "svk_id": 4538, "naam": "NIEUW AMSTERDAM" }, "geometry": { "type": "Point", "coordinates": [ 6.848986526371116, 52.718863572642711 ] } }
+,
+{ "type": "Feature", "id": 281, "properties": { "svk_id": 4553, "naam": "VLODROP" }, "geometry": { "type": "Point", "coordinates": [ 6.157302495430269, 51.152600236444279 ] } }
+,
+{ "type": "Feature", "id": 282, "properties": { "svk_id": 4559, "naam": "SITTARD" }, "geometry": { "type": "Point", "coordinates": [ 5.858558565993351, 51.002191762825333 ] } }
+,
+{ "type": "Feature", "id": 283, "properties": { "svk_id": 4562, "naam": "LAGE ZWALUWE" }, "geometry": { "type": "Point", "coordinates": [ 4.662941391287861, 51.691262146905025 ] } }
+,
+{ "type": "Feature", "id": 284, "properties": { "svk_id": 4618, "naam": "DORDRECHT" }, "geometry": { "type": "Point", "coordinates": [ 4.667835137081063, 51.807318968875684 ] } }
+,
+{ "type": "Feature", "id": 285, "properties": { "svk_id": 4625, "naam": "DE ESCHMARKE" }, "geometry": { "type": "Point", "coordinates": [ 6.952665355605116, 52.221280333841719 ] } }
+,
+{ "type": "Feature", "id": 286, "properties": { "svk_id": 4625, "naam": "GLANERBRUG" }, "geometry": { "type": "Point", "coordinates": [ 6.972867577049615, 52.218841578117619 ] } }
+,
+{ "type": "Feature", "id": 287, "properties": { "svk_id": 4630, "naam": "DEVENTER" }, "geometry": { "type": "Point", "coordinates": [ 6.160559465243873, 52.257384577482448 ] } }
+,
+{ "type": "Feature", "id": 288, "properties": { "svk_id": 4650, "naam": "ROTTERDAM STADION" }, "geometry": { "type": "Point", "coordinates": [ 4.519236458040349, 51.893900482868865 ] } }
+,
+{ "type": "Feature", "id": 289, "properties": { "svk_id": 4651, "naam": "ROTTERDAM BLAAK" }, "geometry": { "type": "Point", "coordinates": [ 4.489105524522357, 51.920047000571735 ] } }
+,
+{ "type": "Feature", "id": 290, "properties": { "svk_id": 4651, "naam": "ROTTERDAM ZUID" }, "geometry": { "type": "Point", "coordinates": [ 4.510552376694247, 51.904137092639921 ] } }
+,
+{ "type": "Feature", "id": 291, "properties": { "svk_id": 4651, "naam": "ROTTERDAM HOFPLEIN" }, "geometry": { "type": "Point", "coordinates": [ 4.479244254529218, 51.926784698767527 ] } }
+,
+{ "type": "Feature", "id": 292, "properties": { "svk_id": 4665, "naam": "BERGEN OP ZOOM" }, "geometry": { "type": "Point", "coordinates": [ 4.295926672186432, 51.493647005958572 ] } }
+,
+{ "type": "Feature", "id": 293, "properties": { "svk_id": 4724, "naam": "GOES" }, "geometry": { "type": "Point", "coordinates": [ 3.890123844012695, 51.498201626629694 ] } }
+,
+{ "type": "Feature", "id": 294, "properties": { "svk_id": 4726, "naam": "S' GRAVENPOLDER" }, "geometry": { "type": "Point", "coordinates": [ 3.892374226660316, 51.462244114645848 ] } }
+,
+{ "type": "Feature", "id": 295, "properties": { "svk_id": 4726, "naam": "NISSE" }, "geometry": { "type": "Point", "coordinates": [ 3.880834955516908, 51.454811588190537 ] } }
+,
+{ "type": "Feature", "id": 296, "properties": { "svk_id": 4726, "naam": "HOEDEKENSKERKE" }, "geometry": { "type": "Point", "coordinates": [ 3.914295579792984, 51.421177501296604 ] } }
+,
+{ "type": "Feature", "id": 297, "properties": { "svk_id": 4726, "naam": "BAARLAND" }, "geometry": { "type": "Point", "coordinates": [ 3.883667527418514, 51.415102449112879 ] } }
+,
+{ "type": "Feature", "id": 298, "properties": { "svk_id": 4726, "naam": "OUDELANDE" }, "geometry": { "type": "Point", "coordinates": [ 3.856604804568516, 51.412994699989213 ] } }
+,
+{ "type": "Feature", "id": 299, "properties": { "svk_id": 4726, "naam": "KWADENDAMME" }, "geometry": { "type": "Point", "coordinates": [ 3.888615180040348, 51.441385718353921 ] } }
+,
+{ "type": "Feature", "id": 300, "properties": { "svk_id": 4728, "naam": "STADSKANAAL" }, "geometry": { "type": "Point", "coordinates": [ 6.935213263905562, 52.996549915843609 ] } }
+,
+{ "type": "Feature", "id": 301, "properties": { "svk_id": 4827, "naam": "EIJSDEN" }, "geometry": { "type": "Point", "coordinates": [ 5.709956027157535, 50.771831789530935 ] } }
+,
+{ "type": "Feature", "id": 302, "properties": { "svk_id": 4844, "naam": "BEEK-ELSLOO" }, "geometry": { "type": "Point", "coordinates": [ 5.786626299533075, 50.9475040669641 ] } }
+,
+{ "type": "Feature", "id": 303, "properties": { "svk_id": 4845, "naam": "GELEEN-LUTTERADE" }, "geometry": { "type": "Point", "coordinates": [ 5.825244491144383, 50.976003007966696 ] } }
+,
+{ "type": "Feature", "id": 304, "properties": { "svk_id": 4858, "naam": "EYS" }, "geometry": { "type": "Point", "coordinates": [ 5.924835762552736, 50.823055075051876 ] } }
+,
+{ "type": "Feature", "id": 305, "properties": { "svk_id": 4865, "naam": "LANDGRAAF" }, "geometry": { "type": "Point", "coordinates": [ 6.019815400066412, 50.896440731129601 ] } }
+,
+{ "type": "Feature", "id": 306, "properties": { "svk_id": 4866, "naam": "LANDGRAAF" }, "geometry": { "type": "Point", "coordinates": [ 6.019815400066412, 50.896440731129601 ] } }
+,
+{ "type": "Feature", "id": 307, "properties": { "svk_id": 4868, "naam": "SUSTEREN" }, "geometry": { "type": "Point", "coordinates": [ 5.863145550287785, 51.061517882672653 ] } }
+,
+{ "type": "Feature", "id": 308, "properties": { "svk_id": 4869, "naam": "ROERMOND" }, "geometry": { "type": "Point", "coordinates": [ 5.994580318944071, 51.193455703729583 ] } }
+,
+{ "type": "Feature", "id": 309, "properties": { "svk_id": 4873, "naam": "TEGELEN" }, "geometry": { "type": "Point", "coordinates": [ 6.137065670768567, 51.335181342348676 ] } }
+,
+{ "type": "Feature", "id": 310, "properties": { "svk_id": 4890, "naam": "VENRAY" }, "geometry": { "type": "Point", "coordinates": [ 6.01489196487884, 51.526432922456827 ] } }
+,
+{ "type": "Feature", "id": 311, "properties": { "svk_id": 4894, "naam": "GELDROP" }, "geometry": { "type": "Point", "coordinates": [ 5.550588260258337, 51.420024831061326 ] } }
+,
+{ "type": "Feature", "id": 312, "properties": { "svk_id": 4897, "naam": "HELMOND HET HOUT" }, "geometry": { "type": "Point", "coordinates": [ 5.631728129739721, 51.468134204174689 ] } }
+,
+{ "type": "Feature", "id": 313, "properties": { "svk_id": 4897, "naam": "HELMOND BRANDEVOORT" }, "geometry": { "type": "Point", "coordinates": [ 5.608970294323131, 51.462324555458835 ] } }
+,
+{ "type": "Feature", "id": 314, "properties": { "svk_id": 4898, "naam": "HELMOND BROUWHUIS" }, "geometry": { "type": "Point", "coordinates": [ 5.703341494531475, 51.470299155823803 ] } }
+,
+{ "type": "Feature", "id": 315, "properties": { "svk_id": 4899, "naam": "HELMOND" }, "geometry": { "type": "Point", "coordinates": [ 5.661690065141502, 51.475225576064176 ] } }
+,
+{ "type": "Feature", "id": 316, "properties": { "svk_id": 4904, "naam": "BOXTEL" }, "geometry": { "type": "Point", "coordinates": [ 5.318434714522398, 51.584997945486727 ] } }
+,
+{ "type": "Feature", "id": 317, "properties": { "svk_id": 4907, "naam": "SCHIJNDEL" }, "geometry": { "type": "Point", "coordinates": [ 5.444258841970665, 51.606808551043329 ] } }
+,
+{ "type": "Feature", "id": 318, "properties": { "svk_id": 4913, "naam": "LAADSTATION VEGHEL" }, "geometry": { "type": "Point", "coordinates": [ 5.52577731049416, 51.620274798358551 ] } }
+,
+{ "type": "Feature", "id": 319, "properties": { "svk_id": 4925, "naam": "VUGHT" }, "geometry": { "type": "Point", "coordinates": [ 5.291998441624365, 51.655332885076852 ] } }
+,
+{ "type": "Feature", "id": 320, "properties": { "svk_id": 4929, "naam": "ROSMALEN" }, "geometry": { "type": "Point", "coordinates": [ 5.368130453559931, 51.714720992008495 ] } }
+,
+{ "type": "Feature", "id": 321, "properties": { "svk_id": 4929, "naam": "S HERTOGENBOSCH OOST" }, "geometry": { "type": "Point", "coordinates": [ 5.31757961143567, 51.700554061174628 ] } }
+,
+{ "type": "Feature", "id": 322, "properties": { "svk_id": 4931, "naam": "GELDERMALSEN" }, "geometry": { "type": "Point", "coordinates": [ 5.271169005409068, 51.883215565421288 ] } }
+,
+{ "type": "Feature", "id": 323, "properties": { "svk_id": 4933, "naam": "OSS WEST" }, "geometry": { "type": "Point", "coordinates": [ 5.506925585328561, 51.758416664966532 ] } }
+,
+{ "type": "Feature", "id": 324, "properties": { "svk_id": 4935, "naam": "OSS" }, "geometry": { "type": "Point", "coordinates": [ 5.531890663746811, 51.765417756622348 ] } }
+,
+{ "type": "Feature", "id": 325, "properties": { "svk_id": 4939, "naam": "WIJCHEN" }, "geometry": { "type": "Point", "coordinates": [ 5.731691665103422, 51.811731700960578 ] } }
+,
+{ "type": "Feature", "id": 326, "properties": { "svk_id": 4944, "naam": "NIJMEGEN-HEYENDAAL" }, "geometry": { "type": "Point", "coordinates": [ 5.867644271290035, 51.826983440821586 ] } }
+,
+{ "type": "Feature", "id": 327, "properties": { "svk_id": 4960, "naam": "TIEL - PASSEWAAIJ" }, "geometry": { "type": "Point", "coordinates": [ 5.392284190609857, 51.874229381547217 ] } }
+,
+{ "type": "Feature", "id": 328, "properties": { "svk_id": 4962, "naam": "TIEL" }, "geometry": { "type": "Point", "coordinates": [ 5.422297664314199, 51.889334520463962 ] } }
+,
+{ "type": "Feature", "id": 329, "properties": { "svk_id": 4966, "naam": "KESTEREN" }, "geometry": { "type": "Point", "coordinates": [ 5.58348876283725, 51.931294645758037 ] } }
+,
+{ "type": "Feature", "id": 330, "properties": { "svk_id": 4973, "naam": "UTRECHT - ZUILEN" }, "geometry": { "type": "Point", "coordinates": [ 5.089104768019292, 52.103362557230703 ] } }
+,
+{ "type": "Feature", "id": 331, "properties": { "svk_id": 4976, "naam": "DRIEBERGEN-ZEIST" }, "geometry": { "type": "Point", "coordinates": [ 5.25906043329514, 52.065276762404764 ] } }
+,
+{ "type": "Feature", "id": 332, "properties": { "svk_id": 4979, "naam": "MAARN" }, "geometry": { "type": "Point", "coordinates": [ 5.369572435637874, 52.06434731413205 ] } }
+,
+{ "type": "Feature", "id": 333, "properties": { "svk_id": 4982, "naam": "VEENENDAAL CENTRUM" }, "geometry": { "type": "Point", "coordinates": [ 5.548796875539067, 52.020069981614519 ] } }
+,
+{ "type": "Feature", "id": 334, "properties": { "svk_id": 4982, "naam": "VEENENDAAL WEST" }, "geometry": { "type": "Point", "coordinates": [ 5.531282551996249, 52.028200039818707 ] } }
+,
+{ "type": "Feature", "id": 335, "properties": { "svk_id": 4984, "naam": "VEENENDAAL DE KLOMP" }, "geometry": { "type": "Point", "coordinates": [ 5.573685405620615, 52.045865019902742 ] } }
+,
+{ "type": "Feature", "id": 336, "properties": { "svk_id": 4986, "naam": "EDE-CENTRUM" }, "geometry": { "type": "Point", "coordinates": [ 5.667952111934934, 52.043161196196905 ] } }
+,
+{ "type": "Feature", "id": 337, "properties": { "svk_id": 4986, "naam": "LUNTEREN" }, "geometry": { "type": "Point", "coordinates": [ 5.624069281982346, 52.085537702492246 ] } }
+,
+{ "type": "Feature", "id": 338, "properties": { "svk_id": 4990, "naam": "BARNEVELD-CENTRUM" }, "geometry": { "type": "Point", "coordinates": [ 5.5904093249791, 52.139816317214347 ] } }
+,
+{ "type": "Feature", "id": 339, "properties": { "svk_id": 4991, "naam": "BARNEVELD-NOORD" }, "geometry": { "type": "Point", "coordinates": [ 5.598485128624643, 52.160941798621806 ] } }
+,
+{ "type": "Feature", "id": 340, "properties": { "svk_id": 5017, "naam": "UTRECHT OVERVECHT" }, "geometry": { "type": "Point", "coordinates": [ 5.123640344824874, 52.10969053198594 ] } }
+,
+{ "type": "Feature", "id": 341, "properties": { "svk_id": 5024, "naam": "SPOORWEGMUSEUM" }, "geometry": { "type": "Point", "coordinates": [ 5.131288146361621, 52.08716135131651 ] } }
+,
+{ "type": "Feature", "id": 342, "properties": { "svk_id": 5032, "naam": "BILTHOVEN" }, "geometry": { "type": "Point", "coordinates": [ 5.203072728116878, 52.129754684087445 ] } }
+,
+{ "type": "Feature", "id": 343, "properties": { "svk_id": 5034, "naam": "DEN DOLDER" }, "geometry": { "type": "Point", "coordinates": [ 5.24296631535316, 52.140460920979713 ] } }
+,
+{ "type": "Feature", "id": 344, "properties": { "svk_id": 5035, "naam": "SOESTDUINEN" }, "geometry": { "type": "Point", "coordinates": [ 5.297034910277181, 52.145125397881365 ] } }
+,
+{ "type": "Feature", "id": 345, "properties": { "svk_id": 5046, "naam": "AMERSFOORT SCHOTHORST" }, "geometry": { "type": "Point", "coordinates": [ 5.403927728719611, 52.174800692396111 ] } }
+,
+{ "type": "Feature", "id": 346, "properties": { "svk_id": 5046, "naam": "NIJKERK" }, "geometry": { "type": "Point", "coordinates": [ 5.494256475570381, 52.222550661863387 ] } }
+,
+{ "type": "Feature", "id": 347, "properties": { "svk_id": 5046, "naam": "AMERSVOORT - VATHORST" }, "geometry": { "type": "Point", "coordinates": [ 5.438487283586014, 52.195384799815876 ] } }
+,
+{ "type": "Feature", "id": 348, "properties": { "svk_id": 5048, "naam": "PUTTEN" }, "geometry": { "type": "Point", "coordinates": [ 5.57480829328826, 52.264773636494688 ] } }
+,
+{ "type": "Feature", "id": 349, "properties": { "svk_id": 5052, "naam": "ERMELO" }, "geometry": { "type": "Point", "coordinates": [ 5.614945589443519, 52.301957268510826 ] } }
+,
+{ "type": "Feature", "id": 350, "properties": { "svk_id": 5052, "naam": "HARDERWIJK" }, "geometry": { "type": "Point", "coordinates": [ 5.619030527112852, 52.337414747214282 ] } }
+,
+{ "type": "Feature", "id": 351, "properties": { "svk_id": 5056, "naam": "NUNSPEET" }, "geometry": { "type": "Point", "coordinates": [ 5.785558924907565, 52.371061285160422 ] } }
+,
+{ "type": "Feature", "id": 352, "properties": { "svk_id": 5058, "naam": "T HARDE" }, "geometry": { "type": "Point", "coordinates": [ 5.89380744899198, 52.409519058967604 ] } }
+,
+{ "type": "Feature", "id": 353, "properties": { "svk_id": 5060, "naam": "WEZEP" }, "geometry": { "type": "Point", "coordinates": [ 6.002493067912099, 52.454176219956565 ] } }
+,
+{ "type": "Feature", "id": 354, "properties": { "svk_id": 5069, "naam": "BEEKBERGEN" }, "geometry": { "type": "Point", "coordinates": [ 5.986918312955909, 52.15963636427324 ] } }
+,
+{ "type": "Feature", "id": 355, "properties": { "svk_id": 5069, "naam": "EERBEEK" }, "geometry": { "type": "Point", "coordinates": [ 6.066341742203909, 52.102773173335706 ] } }
+,
+{ "type": "Feature", "id": 356, "properties": { "svk_id": 5074, "naam": "ARNHEM" }, "geometry": { "type": "Point", "coordinates": [ 5.899542710389752, 51.984963780096926 ] } }
+,
+{ "type": "Feature", "id": 357, "properties": { "svk_id": 5078, "naam": "ARNHEM VELPERPOORT" }, "geometry": { "type": "Point", "coordinates": [ 5.919242251757623, 51.985253821149342 ] } }
+,
+{ "type": "Feature", "id": 358, "properties": { "svk_id": 5079, "naam": "ARNHEM PRESIKHAAF" }, "geometry": { "type": "Point", "coordinates": [ 5.943864787537659, 51.988070055741183 ] } }
+,
+{ "type": "Feature", "id": 359, "properties": { "svk_id": 5089, "naam": "WINTERSWIJK" }, "geometry": { "type": "Point", "coordinates": [ 6.715424576243866, 51.967612738431498 ] } }
+,
+{ "type": "Feature", "id": 360, "properties": { "svk_id": 5097, "naam": "VARSSEVELD" }, "geometry": { "type": "Point", "coordinates": [ 6.457356475361002, 51.937003692476601 ] } }
+,
+{ "type": "Feature", "id": 361, "properties": { "svk_id": 5098, "naam": "TERBORG" }, "geometry": { "type": "Point", "coordinates": [ 6.36505098725804, 51.92213144849012 ] } }
+,
+{ "type": "Feature", "id": 362, "properties": { "svk_id": 5099, "naam": "DOETINCHEM" }, "geometry": { "type": "Point", "coordinates": [ 6.308162028043268, 51.955292100556335 ] } }
+,
+{ "type": "Feature", "id": 363, "properties": { "svk_id": 5099, "naam": "GAANDEREN" }, "geometry": { "type": "Point", "coordinates": [ 6.347619947402737, 51.931277577372121 ] } }
+,
+{ "type": "Feature", "id": 364, "properties": { "svk_id": 5102, "naam": "DOETINCHEM DE HUET" }, "geometry": { "type": "Point", "coordinates": [ 6.260853853983413, 51.959167748975233 ] } }
+,
+{ "type": "Feature", "id": 365, "properties": { "svk_id": 5106, "naam": "DIDAM" }, "geometry": { "type": "Point", "coordinates": [ 6.133617155599525, 51.933645029880601 ] } }
+,
+{ "type": "Feature", "id": 366, "properties": { "svk_id": 5110, "naam": "BRUMMEN" }, "geometry": { "type": "Point", "coordinates": [ 6.146782165271339, 52.090337634676352 ] } }
+,
+{ "type": "Feature", "id": 367, "properties": { "svk_id": 5113, "naam": "ZUTPHEN" }, "geometry": { "type": "Point", "coordinates": [ 6.19407059874328, 52.145068037540113 ] } }
+,
+{ "type": "Feature", "id": 368, "properties": { "svk_id": 5124, "naam": "VORDEN" }, "geometry": { "type": "Point", "coordinates": [ 6.318209818517843, 52.107147604856877 ] } }
+,
+{ "type": "Feature", "id": 369, "properties": { "svk_id": 5128, "naam": "RUURLO" }, "geometry": { "type": "Point", "coordinates": [ 6.450592638205441, 52.080562394279852 ] } }
+,
+{ "type": "Feature", "id": 370, "properties": { "svk_id": 5134, "naam": "LOCHEM" }, "geometry": { "type": "Point", "coordinates": [ 6.426483436205539, 52.166825608200732 ] } }
+,
+{ "type": "Feature", "id": 371, "properties": { "svk_id": 5138, "naam": "GOOR" }, "geometry": { "type": "Point", "coordinates": [ 6.584756718257994, 52.23027733687897 ] } }
+,
+{ "type": "Feature", "id": 372, "properties": { "svk_id": 5141, "naam": "DELDEN" }, "geometry": { "type": "Point", "coordinates": [ 6.716035080912544, 52.260118042308527 ] } }
+,
+{ "type": "Feature", "id": 373, "properties": { "svk_id": 5144, "naam": "HENGELO OOST" }, "geometry": { "type": "Point", "coordinates": [ 6.818801421827897, 52.268901961654564 ] } }
+,
+{ "type": "Feature", "id": 374, "properties": { "svk_id": 5147, "naam": "OLDENZAAL" }, "geometry": { "type": "Point", "coordinates": [ 6.932932358646415, 52.306155159719069 ] } }
+,
+{ "type": "Feature", "id": 375, "properties": { "svk_id": 5161, "naam": "ALMELO DE RIET" }, "geometry": { "type": "Point", "coordinates": [ 6.666726637672065, 52.342045832141785 ] } }
+,
+{ "type": "Feature", "id": 376, "properties": { "svk_id": 5161, "naam": "BORNE" }, "geometry": { "type": "Point", "coordinates": [ 6.747990288920507, 52.299098374322426 ] } }
+,
+{ "type": "Feature", "id": 377, "properties": { "svk_id": 5163, "naam": "ALMELO" }, "geometry": { "type": "Point", "coordinates": [ 6.653929338765114, 52.357976483787887 ] } }
+,
+{ "type": "Feature", "id": 378, "properties": { "svk_id": 5164, "naam": "KLARENBEEK" }, "geometry": { "type": "Point", "coordinates": [ 6.084004672020138, 52.178100425107594 ] } }
+,
+{ "type": "Feature", "id": 379, "properties": { "svk_id": 5164, "naam": "VOORST - EMPE" }, "geometry": { "type": "Point", "coordinates": [ 6.143534906342456, 52.157773134143156 ] } }
+,
+{ "type": "Feature", "id": 380, "properties": { "svk_id": 5172, "naam": "VRIEZENVEEN" }, "geometry": { "type": "Point", "coordinates": [ 6.600420652538935, 52.402086229484404 ] } }
+,
+{ "type": "Feature", "id": 381, "properties": { "svk_id": 5176, "naam": "DAARLERVEEN" }, "geometry": { "type": "Point", "coordinates": [ 6.575916723640557, 52.441254212096311 ] } }
+,
+{ "type": "Feature", "id": 382, "properties": { "svk_id": 5179, "naam": "GEERDIJK" }, "geometry": { "type": "Point", "coordinates": [ 6.56684769830995, 52.476228209563835 ] } }
+,
+{ "type": "Feature", "id": 383, "properties": { "svk_id": 5180, "naam": "VROOMSHOOP" }, "geometry": { "type": "Point", "coordinates": [ 6.569591239181451, 52.457730071674767 ] } }
+,
+{ "type": "Feature", "id": 384, "properties": { "svk_id": 5182, "naam": "OMMEN" }, "geometry": { "type": "Point", "coordinates": [ 6.416083264955708, 52.509548953866194 ] } }
+,
+{ "type": "Feature", "id": 385, "properties": { "svk_id": 5185, "naam": "HARDENBERG" }, "geometry": { "type": "Point", "coordinates": [ 6.628693330225627, 52.57285789415441 ] } }
+,
+{ "type": "Feature", "id": 386, "properties": { "svk_id": 5187, "naam": "GRAMSBERGEN" }, "geometry": { "type": "Point", "coordinates": [ 6.676054288903733, 52.609366320023113 ] } }
+,
+{ "type": "Feature", "id": 387, "properties": { "svk_id": 5189, "naam": "COEVORDEN" }, "geometry": { "type": "Point", "coordinates": [ 6.735781903357079, 52.663467966753004 ] } }
+,
+{ "type": "Feature", "id": 388, "properties": { "svk_id": 5189, "naam": "DALEN" }, "geometry": { "type": "Point", "coordinates": [ 6.75815914994356, 52.694131031469681 ] } }
+,
+{ "type": "Feature", "id": 389, "properties": { "svk_id": 5192, "naam": "EMMEN" }, "geometry": { "type": "Point", "coordinates": [ 6.899658623801298, 52.790261396662785 ] } }
+,
+{ "type": "Feature", "id": 390, "properties": { "svk_id": 5207, "naam": "MEPPEL" }, "geometry": { "type": "Point", "coordinates": [ 6.197433493162355, 52.690598864648535 ] } }
+,
+{ "type": "Feature", "id": 391, "properties": { "svk_id": 5213, "naam": "HOOGEVEEN" }, "geometry": { "type": "Point", "coordinates": [ 6.473943698934948, 52.734320503132238 ] } }
+,
+{ "type": "Feature", "id": 392, "properties": { "svk_id": 5220, "naam": "ASSEN" }, "geometry": { "type": "Point", "coordinates": [ 6.571103083785281, 52.991888113479298 ] } }
+,
+{ "type": "Feature", "id": 393, "properties": { "svk_id": 5237, "naam": "HAREN" }, "geometry": { "type": "Point", "coordinates": [ 6.617570438613652, 53.176089609454507 ] } }
+,
+{ "type": "Feature", "id": 394, "properties": { "svk_id": 5240, "naam": "GRONINGEN NOORD" }, "geometry": { "type": "Point", "coordinates": [ 6.556616530274557, 53.230240672126747 ] } }
+,
+{ "type": "Feature", "id": 395, "properties": { "svk_id": 5242, "naam": "GRIJPSKERK" }, "geometry": { "type": "Point", "coordinates": [ 6.309342164461422, 53.255785868083407 ] } }
+,
+{ "type": "Feature", "id": 396, "properties": { "svk_id": 5243, "naam": "ZUIDHORN" }, "geometry": { "type": "Point", "coordinates": [ 6.407454427166234, 53.247911205126393 ] } }
+,
+{ "type": "Feature", "id": 397, "properties": { "svk_id": 5247, "naam": "BUITENPOST" }, "geometry": { "type": "Point", "coordinates": [ 6.145499955665739, 53.256393302689496 ] } }
+,
+{ "type": "Feature", "id": 398, "properties": { "svk_id": 5247, "naam": "ZWAAGWESTEINDE" }, "geometry": { "type": "Point", "coordinates": [ 6.036172938278916, 53.248290942493995 ] } }
+,
+{ "type": "Feature", "id": 399, "properties": { "svk_id": 5247, "naam": "VEENWOUDEN" }, "geometry": { "type": "Point", "coordinates": [ 5.990237211658346, 53.235204710899566 ] } }
+,
+{ "type": "Feature", "id": 400, "properties": { "svk_id": 5251, "naam": "HARDEGARIJP" }, "geometry": { "type": "Point", "coordinates": [ 5.934647753682457, 53.219005678089417 ] } }
+,
+{ "type": "Feature", "id": 401, "properties": { "svk_id": 5252, "naam": "LEEUWARDEN" }, "geometry": { "type": "Point", "coordinates": [ 5.792208949355953, 53.196131140502928 ] } }
+,
+{ "type": "Feature", "id": 402, "properties": { "svk_id": 5254, "naam": "LEEUWARDEN CAMMINGHABUREN" }, "geometry": { "type": "Point", "coordinates": [ 5.842592721966229, 53.202114607617382 ] } }
+,
+{ "type": "Feature", "id": 403, "properties": { "svk_id": 5259, "naam": "DEINUM" }, "geometry": { "type": "Point", "coordinates": [ 5.727554884253328, 53.18866728060803 ] } }
+,
+{ "type": "Feature", "id": 404, "properties": { "svk_id": 5259, "naam": "DRONRIJP" }, "geometry": { "type": "Point", "coordinates": [ 5.635486149666169, 53.177795985929428 ] } }
+,
+{ "type": "Feature", "id": 405, "properties": { "svk_id": 5265, "naam": "FRANEKER" }, "geometry": { "type": "Point", "coordinates": [ 5.550251020896584, 53.182399152449086 ] } }
+,
+{ "type": "Feature", "id": 406, "properties": { "svk_id": 5269, "naam": "HEERENVEEN IJSSTADION" }, "geometry": { "type": "Point", "coordinates": [ 5.943846718888887, 52.935580533159701 ] } }
+,
+{ "type": "Feature", "id": 407, "properties": { "svk_id": 5270, "naam": "HEERENVEEN" }, "geometry": { "type": "Point", "coordinates": [ 5.914427918569149, 52.961514159991786 ] } }
+,
+{ "type": "Feature", "id": 408, "properties": { "svk_id": 5274, "naam": "STEENWIJK" }, "geometry": { "type": "Point", "coordinates": [ 6.115551344942187, 52.791370767061338 ] } }
+,
+{ "type": "Feature", "id": 409, "properties": { "svk_id": 5276, "naam": "UITHUIZERMEEDEN" }, "geometry": { "type": "Point", "coordinates": [ 6.72061489999147, 53.413837430128069 ] } }
+,
+{ "type": "Feature", "id": 410, "properties": { "svk_id": 5278, "naam": "UITHUIZEN" }, "geometry": { "type": "Point", "coordinates": [ 6.674015674283517, 53.409680851096162 ] } }
+,
+{ "type": "Feature", "id": 411, "properties": { "svk_id": 5281, "naam": "USQUERT" }, "geometry": { "type": "Point", "coordinates": [ 6.608244943076359, 53.40099370408867 ] } }
+,
+{ "type": "Feature", "id": 412, "properties": { "svk_id": 5286, "naam": "WARFFUM" }, "geometry": { "type": "Point", "coordinates": [ 6.567360065101896, 53.390474749450753 ] } }
+,
+{ "type": "Feature", "id": 413, "properties": { "svk_id": 5288, "naam": "WINSUM" }, "geometry": { "type": "Point", "coordinates": [ 6.520165529151102, 53.330758805663805 ] } }
+,
+{ "type": "Feature", "id": 414, "properties": { "svk_id": 5291, "naam": "BEDUM" }, "geometry": { "type": "Point", "coordinates": [ 6.591696075859817, 53.306708438111684 ] } }
+,
+{ "type": "Feature", "id": 415, "properties": { "svk_id": 5295, "naam": "STEDUM" }, "geometry": { "type": "Point", "coordinates": [ 6.688675102891535, 53.326608298568097 ] } }
+,
+{ "type": "Feature", "id": 416, "properties": { "svk_id": 5299, "naam": "LOPPERSUM" }, "geometry": { "type": "Point", "coordinates": [ 6.746723103555368, 53.334835299122354 ] } }
+,
+{ "type": "Feature", "id": 417, "properties": { "svk_id": 5303, "naam": "APPINGEDAM" }, "geometry": { "type": "Point", "coordinates": [ 6.861553749749105, 53.325933181015607 ] } }
+,
+{ "type": "Feature", "id": 418, "properties": { "svk_id": 5305, "naam": "DELFZIJL WEST" }, "geometry": { "type": "Point", "coordinates": [ 6.907234256524612, 53.332014297021281 ] } }
+,
+{ "type": "Feature", "id": 419, "properties": { "svk_id": 5306, "naam": "DELFZIJL" }, "geometry": { "type": "Point", "coordinates": [ 6.923103090561821, 53.333717764989146 ] } }
+,
+{ "type": "Feature", "id": 420, "properties": { "svk_id": 5307, "naam": "HOOGEZAND-SAPPEMEER" }, "geometry": { "type": "Point", "coordinates": [ 6.771963288563654, 53.159712373974443 ] } }
+,
+{ "type": "Feature", "id": 421, "properties": { "svk_id": 5307, "naam": "KROPSWOLDE" }, "geometry": { "type": "Point", "coordinates": [ 6.722743325785014, 53.161735717107518 ] } }
+,
+{ "type": "Feature", "id": 422, "properties": { "svk_id": 5307, "naam": "MARTENSHOEK" }, "geometry": { "type": "Point", "coordinates": [ 6.74109059482854, 53.160783994545646 ] } }
+,
+{ "type": "Feature", "id": 423, "properties": { "svk_id": 5307, "naam": "SAPPEMEER-OOST" }, "geometry": { "type": "Point", "coordinates": [ 6.796070165756078, 53.158910217693339 ] } }
+,
+{ "type": "Feature", "id": 424, "properties": { "svk_id": 5310, "naam": "ZUIDBROEK" }, "geometry": { "type": "Point", "coordinates": [ 6.867150486230994, 53.15928490870246 ] } }
+,
+{ "type": "Feature", "id": 425, "properties": { "svk_id": 5317, "naam": "WINSCHOTEN" }, "geometry": { "type": "Point", "coordinates": [ 7.03502209010105, 53.139200710496937 ] } }
+,
+{ "type": "Feature", "id": 426, "properties": { "svk_id": 5321, "naam": "NIEUWESCHANS" }, "geometry": { "type": "Point", "coordinates": [ 7.199681570166795, 53.184484951176017 ] } }
+,
+{ "type": "Feature", "id": 427, "properties": { "svk_id": 5326, "naam": "VEENDAM" }, "geometry": { "type": "Point", "coordinates": [ 6.893860437564854, 53.121883104138853 ] } }
+,
+{ "type": "Feature", "id": 428, "properties": { "svk_id": 5336, "naam": "EDE-WAGENINGEN" }, "geometry": { "type": "Point", "coordinates": [ 5.673012887540464, 52.027635468069398 ] } }
+,
+{ "type": "Feature", "id": 429, "properties": { "svk_id": 5336, "naam": "WOLFHEZE" }, "geometry": { "type": "Point", "coordinates": [ 5.793721747941478, 52.005394025058614 ] } }
+,
+{ "type": "Feature", "id": 430, "properties": { "svk_id": 5336, "naam": "OOSTERBEEK" }, "geometry": { "type": "Point", "coordinates": [ 5.839726891236174, 51.995078291224509 ] } }
+,
+{ "type": "Feature", "id": 431, "properties": { "svk_id": 5342, "naam": "NIJMEGEN" }, "geometry": { "type": "Point", "coordinates": [ 5.852628242543694, 51.843627712728406 ] } }
+,
+{ "type": "Feature", "id": 432, "properties": { "svk_id": 5350, "naam": "NIJMEGEN-DUKENBURG" }, "geometry": { "type": "Point", "coordinates": [ 5.795798102501578, 51.824127699689143 ] } }
+,
+{ "type": "Feature", "id": 433, "properties": { "svk_id": 5354, "naam": "AMSTERDAM LELYLAAN" }, "geometry": { "type": "Point", "coordinates": [ 4.833982755201221, 52.35778532296554 ] } }
+,
+{ "type": "Feature", "id": 434, "properties": { "svk_id": 5464, "naam": "SCHIPHOL" }, "geometry": { "type": "Point", "coordinates": [ 4.763529775768646, 52.310002166814769 ] } }
+,
+{ "type": "Feature", "id": 435, "properties": { "svk_id": 5465, "naam": "HOOFDDORP" }, "geometry": { "type": "Point", "coordinates": [ 4.699624735012496, 52.2930421119203 ] } }
+,
+{ "type": "Feature", "id": 436, "properties": { "svk_id": 5465, "naam": "NIEUW VENNEP" }, "geometry": { "type": "Point", "coordinates": [ 4.645560778989561, 52.259001148432063 ] } }
+,
+{ "type": "Feature", "id": 437, "properties": { "svk_id": 5472, "naam": "ROTTERDAM LOMBARDIJEN" }, "geometry": { "type": "Point", "coordinates": [ 4.530646125597533, 51.88067191858417 ] } }
+,
+{ "type": "Feature", "id": 438, "properties": { "svk_id": 5501, "naam": "DENHAAG - YPENBURG" }, "geometry": { "type": "Point", "coordinates": [ 4.392638765195129, 52.054966021137432 ] } }
+,
+{ "type": "Feature", "id": 439, "properties": { "svk_id": 5569, "naam": "SCHIN OP GEUL" }, "geometry": { "type": "Point", "coordinates": [ 5.871639315829276, 50.856085515484914 ] } }
+,
+{ "type": "Feature", "id": 440, "properties": { "svk_id": 5569, "naam": "WIJLRE" }, "geometry": { "type": "Point", "coordinates": [ 5.89828654551259, 50.83253436238153 ] } }
+,
+{ "type": "Feature", "id": 441, "properties": { "svk_id": 5573, "naam": "LELYSTAD-CENTRUM" }, "geometry": { "type": "Point", "coordinates": [ 5.472825267758886, 52.50786979020495 ] } }
+,
+{ "type": "Feature", "id": 442, "properties": { "svk_id": 5573, "naam": "LELYSTAD-ZUID" }, "geometry": { "type": "Point", "coordinates": [ 5.468175909410523, 52.486564104348304 ] } }
+
+]
+}
