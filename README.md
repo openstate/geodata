@@ -3,13 +3,13 @@ Open geodata
 
 In deze repository vind je een aantal interessante open geo datasets. De meeste datasets zijn in het Leaflet/Tilemill/CartoDB vriendelijke [GeoJSON](http://www.geojson.org/geojson-spec.html#examples) formaat en coordinatenstelsel (lat,lng) opgeslagen.
 
+- - -
+
+Presentatie van de workshop wonen + geo: [Simeon Nedkov - Wonen](https://docs.google.com/presentation/d/1byHbk9-kXGzkfqrm_yhaEGZfBUTTibnY-_mM16Thtsg/edit#slide=id.ge23b3f54_010)
+
 
 Presentaties
 ============
-
-Workshop presentatie 29 juni
-[Simeon Nedkov - Wonen](https://docs.google.com/presentation/d/1byHbk9-kXGzkfqrm_yhaEGZfBUTTibnY-_mM16Thtsg/edit#slide=id.ge23b3f54_010)
-
 
 Onderstaande presentaties belichten verschillende aspecten van geodata, -standaarden, -services en -tools.
 
