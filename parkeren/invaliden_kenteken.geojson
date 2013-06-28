@@ -1,0 +1,962 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ID": 1, "KENTEKEN": "76-HK-BZ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.903090589239629, 52.367077894949198 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 2, "KENTEKEN": "58-SF-NT", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.903043937648026, 52.367063952091797 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 3, "KENTEKEN": "CANTA", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.902684581325794, 52.366883704799214 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 4, "KENTEKEN": "53-FB-TR", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.902624963348302, 52.366857102624451 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 5, "KENTEKEN": "95-LNZ-3", "ONDERBORD1": "Wegsleepregeling", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.901739842028253, 52.366136075594149 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 6, "KENTEKEN": "5-VFT-16", "ONDERBORD1": "Do t\/m Zo 06:00-19:00", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.894977876342055, 52.367047732832795 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 7, "KENTEKEN": "29-JJP-7", "ONDERBORD1": "Wegsleepregeling", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.897094602402788, 52.367075814929407 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 8, "KENTEKEN": "43-LFJ-5", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.902314665245255, 52.366114016608975 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 9, "KENTEKEN": "86-JVK-1", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.904210398853804, 52.366482775852212 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 10, "KENTEKEN": "TL-PN-29", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.903483991222556, 52.369882215258393 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 11, "KENTEKEN": "95-HNP-6", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.904448831307655, 52.370209473540022 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 12, "KENTEKEN": "6-VPR-75", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.904683979290198, 52.370309224413738 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 13, "KENTEKEN": "81-KBL-9", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.904724846670151, 52.370329149421579 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 14, "KENTEKEN": "75-HFJ-9", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.904949079568907, 52.370420772274009 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 15, "KENTEKEN": "PF-PP-13", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.905160755787686, 52.370587785004425 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 16, "KENTEKEN": "TZ-NJ-51", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.905119250333106, 52.37049151801142 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 17, "KENTEKEN": "XR-VX-81", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.905977931753663, 52.370935984128252 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 18, "KENTEKEN": "45-NK-TL", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.906995415679072, 52.371283642929406 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 19, "KENTEKEN": "06-FH-FP", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.904050056833447, 52.370805715685016 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 20, "KENTEKEN": "98-XLK-2", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.900988061411971, 52.370528287070726 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 21, "KENTEKEN": "69-NVN-7", "ONDERBORD1": "Wegsleepregeling", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.900643077546575, 52.370714559305434 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 22, "KENTEKEN": "XD-RR-19", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.900576039634451, 52.371192104603892 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 23, "KENTEKEN": "39-LJ-DB", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.900514844357839, 52.371614773178976 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 24, "KENTEKEN": "36-GV-VB", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.900505126452689, 52.37172032349725 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 25, "KENTEKEN": "64-HVZ-5", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.900500172626513, 52.371751738403368 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 26, "KENTEKEN": "13-LTK-6", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.900939982920735, 52.374068514480662 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 27, "KENTEKEN": "64-XXV-1", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.901147653883195, 52.374490876566917 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 28, "KENTEKEN": "14-RS-RB", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/28" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.90143500518733, 52.375019559331335 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 29, "KENTEKEN": "15-DH-RG", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.896847469064758, 52.37565648943032 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 30, "KENTEKEN": "17-GT-TZ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.900951445880133, 52.376673652975263 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 31, "KENTEKEN": "46-PL-GV", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.897288889451334, 52.374239589370397 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 32, "KENTEKEN": "11-PP-RH", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.899310339375265, 52.374478051315513 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 33, "KENTEKEN": "61-KFS-4", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.897816527455845, 52.373271357661331 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 34, "KENTEKEN": "XL-XG-62", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.896873737089709, 52.372519828941385 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 35, "KENTEKEN": "ZH-TR-35", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.896349024105857, 52.372085314195793 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 36, "KENTEKEN": "62-LH-RS", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.894568575150391, 52.369640968020853 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 37, "KENTEKEN": "15-NK-ZN", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.898031785342265, 52.373785173581062 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 38, "KENTEKEN": "33-DL-DV", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.895040642549263, 52.371311012593324 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 39, "KENTEKEN": "02-SL-VL", "ONDERBORD1": "Ma-Di-Do, 07:00-15:00", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.89455594806955, 52.370731220938879 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 40, "KENTEKEN": "07-SHL-6", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.897366092854811, 52.372039670944815 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 41, "KENTEKEN": "94-LK-JJ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.898204296681192, 52.372811231452843 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 42, "KENTEKEN": "81-NDD-5", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.897990195670123, 52.372442004788155 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 43, "KENTEKEN": "04-RV-RP", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.89620283940647, 52.368632651283022 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 44, "KENTEKEN": "LN-TX-31", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.896338266530348, 52.368773399512648 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 45, "KENTEKEN": "LD-HS-95", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.89734020944362, 52.369798738726175 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 46, "KENTEKEN": "51-NH-NK", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.897668176704197, 52.370126902129975 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 47, "KENTEKEN": "91-SK-HS", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.899171733934628, 52.371696277880162 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 48, "KENTEKEN": "ZJ-66-FD", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.898661277629112, 52.370643956016636 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 49, "KENTEKEN": "ZG-TX-96", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.899416667671932, 52.37012335746175 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 50, "KENTEKEN": "87-HV-BZ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.899487349409821, 52.370103966473003 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 51, "KENTEKEN": "51-TP-VG", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.899971082952884, 52.369585540681037 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 52, "KENTEKEN": "18-JNT-9", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.899125263646461, 52.369807864450323 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 53, "KENTEKEN": "43-JV-TR", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.896783315131057, 52.367713303024452 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 54, "KENTEKEN": "76-TGN-2", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.900076310529079, 52.369352415924098 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 55, "KENTEKEN": "90-VDL-7", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.899708577736919, 52.369032847100968 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 56, "KENTEKEN": "69-SF-NT", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/29" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.89857369009272, 52.368026183108107 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 57, "KENTEKEN": "ZH-GT-90", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.902007151866663, 52.370672709877262 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 58, "KENTEKEN": "10-SB-KT", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.902416528985089, 52.370669701786433 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 59, "KENTEKEN": "10-VL-XD", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.9030269366973, 52.371749629138698 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 60, "KENTEKEN": "08-TZ-TJ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.902785143820942, 52.371887484917025 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 61, "KENTEKEN": "72-NF-LP", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.902542308784212, 52.371873155792954 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 62, "KENTEKEN": "90-FG-XD", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.902276457176988, 52.371652237201808 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 63, "KENTEKEN": "40-RVG-9", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.902339972798963, 52.371815614487772 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 64, "KENTEKEN": "62-VJ-GT", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.902134453746543, 52.371645714188233 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 65, "KENTEKEN": "RJ-VD-59", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.902281711463755, 52.371333045953641 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 66, "KENTEKEN": "98-PX-XR", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.901791963090773, 52.371009665900047 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 67, "KENTEKEN": "ST-ZH-02", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.901344358821436, 52.37078691964404 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 68, "KENTEKEN": "ZL-DL-11", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.901481359109752, 52.371185071087446 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 69, "KENTEKEN": "97-SF-JD", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.901449017032196, 52.371230107415016 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 70, "KENTEKEN": "64-SH-JB", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.901317005279982, 52.371438769579996 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 71, "KENTEKEN": "FB-LL-79", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.902353784474561, 52.372741086224906 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 72, "KENTEKEN": "38-HG-TV", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.903568545105924, 52.372366890783297 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 73, "KENTEKEN": "43-PV-SH", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.903679942234707, 52.372446685853006 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 74, "KENTEKEN": "25-LLX-8", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": "Wegsleepregeling van kracht", "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.905109477798768, 52.371910325203288 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 75, "KENTEKEN": "16-RPS-3", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": "Wegsleepregeling van kracht", "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.905023292119613, 52.371874220863603 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 76, "KENTEKEN": "97-VT-XB", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": "Wegsleepregeling van kracht", "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.904026874747098, 52.372990651529449 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 77, "KENTEKEN": "22-LFF-8", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": "Wegsleepregeling van kracht", "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.903380033395529, 52.373348496065717 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 78, "KENTEKEN": "AM-07-57", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.901388719594384, 52.373583844268843 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 79, "KENTEKEN": "07-FD-ZK", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.90244957069391, 52.375738357204177 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 80, "KENTEKEN": "VH-PH-91, 10:00-00:00u", "ONDERBORD1": "Wegsleepregeling van kracht", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.903018726632765, 52.375398981723649 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 81, "KENTEKEN": "12-HD-RX", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.9028514024103, 52.374964263752112 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 82, "KENTEKEN": "15-JK-XG", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.902675490035647, 52.374527863817733 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 83, "KENTEKEN": "71-TDN-1", "ONDERBORD1": "Ma t\/m Za, 09:00 - 18:00", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.89508166476594, 52.377289925139024 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 84, "KENTEKEN": "94-FPB-9", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.894727656359342, 52.377019338569603 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 85, "KENTEKEN": "70-PV-JT", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.89261981831602, 52.37570694494412 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 86, "KENTEKEN": "34-RX-HF", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/11\/30" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.891691981900408, 52.375026468782053 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 87, "KENTEKEN": "12-PHV-1", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/03" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.893747502553754, 52.376947943618369 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 88, "KENTEKEN": "57-NSN-9", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/03" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.892690326192652, 52.376248168111871 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 89, "KENTEKEN": "86-NGT-2", "ONDERBORD1": "ma t\/m do, 9.00-18.00h", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/03" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.88931857951183, 52.373762677285498 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 90, "KENTEKEN": "11-NGN-9", "ONDERBORD1": "ma t\/m vrij, 09.00-17.00h", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/03" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889388204118708, 52.3739213948881 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 91, "KENTEKEN": "74-SR-BZ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/03" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.893479087740002, 52.37747166852261 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 92, "KENTEKEN": "39-LN-RS", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/03" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.891435464640949, 52.383458281343195 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 93, "KENTEKEN": "15-NF-XD", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/03" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.892029430048332, 52.377250670273 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 94, "KENTEKEN": "30-GX-SG", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/03" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.891653578399844, 52.37690297530461 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 95, "KENTEKEN": "65-LT-ZX", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/03" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.890244023296562, 52.375618659517627 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 96, "KENTEKEN": "36-SVL-5", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/03" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.88989847829879, 52.375308256428639 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 97, "KENTEKEN": "44-RBZ-5", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/03" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.888979286534116, 52.374360955247447 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 98, "KENTEKEN": "63-XG-BD", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.891206759178513, 52.381430906487481 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 99, "KENTEKEN": "17-JFS-2", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889658999029897, 52.381618624963998 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 100, "KENTEKEN": "49-LS-NJ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889231432234671, 52.3824824063609 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 101, "KENTEKEN": "79-BX-KN", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889195986120633, 52.382494765608328 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 102, "KENTEKEN": "21-LP-JV", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.88740802128797, 52.383408723830122 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 103, "KENTEKEN": "67-XP-BV", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.887339750298526, 52.383447033858907 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 104, "KENTEKEN": "78-JJ-VJ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.885773137713404, 52.384320886322236 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 105, "KENTEKEN": "90-XK-DK", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.885670103065179, 52.384380896213791 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 106, "KENTEKEN": "80-PFX-1", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.885292310755095, 52.384635645799662 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 107, "KENTEKEN": "GP-GN-84", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.883014988717837, 52.385242215893655 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 108, "KENTEKEN": "87-RF-RS", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.88302911487884, 52.385268760703902 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 109, "KENTEKEN": "LZ-VT-81", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.884044939657539, 52.386729737521058 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 110, "KENTEKEN": "42-HK-DR", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.884520342203498, 52.387501773253177 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 111, "KENTEKEN": "PX-DX-56", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.884981901198376, 52.386808263910737 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 112, "KENTEKEN": "31-GJ-HN", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.885657617834128, 52.386597288314753 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 113, "KENTEKEN": "CANTA", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.887322901445294, 52.384554086171455 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 114, "KENTEKEN": "T-FB-5", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": "Kenteken is onleesbaar", "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.88783810273902, 52.385959832498024 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 115, "KENTEKEN": "80-FT-SL", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.887215014519307, 52.386597225527481 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 116, "KENTEKEN": "09-TR-LT", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.886572813451188, 52.385829892577142 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 117, "KENTEKEN": "CANTA", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889160193817687, 52.387263325046092 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 118, "KENTEKEN": "36-PR-TG", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.887423398737357, 52.387755038449875 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 119, "KENTEKEN": "45-KPB-8", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.887418413950461, 52.38778751558808 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 120, "KENTEKEN": "64-GS-PF", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889310148935123, 52.38627750317977 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 121, "KENTEKEN": "76-XF-ZL", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889294916609309, 52.386152371163448 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 122, "KENTEKEN": "7-VPK-90", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889733325219186, 52.384243809934226 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 123, "KENTEKEN": "RG-ZG-79", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.888602422605451, 52.383881611946897 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 124, "KENTEKEN": "61-TF-BJ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.886107924835279, 52.381992902731618 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 125, "KENTEKEN": "74-XVJ-6", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.884123941108891, 52.383097405527053 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 126, "KENTEKEN": "74-PK-DP", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882253985322079, 52.384638065004843 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 127, "KENTEKEN": "63-GD-FR", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.886116704198393, 52.382714852423703 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 128, "KENTEKEN": "97-JKN-3", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.885791369952269, 52.38290307186432 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 129, "KENTEKEN": "77-JRL-3", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.884821231356023, 52.383408538223136 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 130, "KENTEKEN": "91-GT-NZ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.881559013400303, 52.383390525737838 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 131, "KENTEKEN": "18-RK-JL", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.881528595398699, 52.383340860339231 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 132, "KENTEKEN": "03-LS-GD", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.881014037128065, 52.38250759002409 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 133, "KENTEKEN": "65-HK-HV", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.880154869225136, 52.381252499288578 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 134, "KENTEKEN": "15-BJ-TN", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879906376266206, 52.380856505496723 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 135, "KENTEKEN": "28-XF-JR", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.878934252918513, 52.379334038477857 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 136, "KENTEKEN": "65-XT-KF", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.878758842292564, 52.379050001076543 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 137, "KENTEKEN": "51-LH-VS", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879336920400251, 52.378674651395649 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 138, "KENTEKEN": "11-RL-VP", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.87937239154567, 52.378732171216889 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 139, "KENTEKEN": "46-PZ-JS", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879405008739004, 52.378783105406342 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 140, "KENTEKEN": "16-XP-BV", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879436656412058, 52.378833437848591 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 141, "KENTEKEN": "CA-26-17", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879466392329011, 52.378880176603694 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 142, "KENTEKEN": "34-PG-XG", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879744574697735, 52.379317004947332 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 143, "KENTEKEN": "22-JF-VR", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879624150216721, 52.379344575091139 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 144, "KENTEKEN": "65-PK-VX", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879949782093544, 52.379645955604893 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 145, "KENTEKEN": "43-XV-GB", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879835188230997, 52.379675941259777 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 146, "KENTEKEN": "23-HF-LB", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879977641363019, 52.379686112801465 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 147, "KENTEKEN": "63-XS-LL", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.880514291847512, 52.38053288095049 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 148, "KENTEKEN": "DP-LX-79", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.880575429727281, 52.380630963946359 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 149, "KENTEKEN": "44-PG-KH", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.880615094186409, 52.380693945279376 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 150, "KENTEKEN": "93-DL-BR", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.881778234327629, 52.382532003928105 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 151, "KENTEKEN": "43-PH-SZ", "ONDERBORD1": "Wegsleepregeling van kracht", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882214807439865, 52.383220743057954 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 152, "KENTEKEN": "28-GZP-4", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882328743205605, 52.383408134046043 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 153, "KENTEKEN": "92-HD-SV", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/04" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882381151234147, 52.383499941005788 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 154, "KENTEKEN": "51-DD-JP", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.89243647119547, 52.380122906864024 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 155, "KENTEKEN": "90-JX-GK", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.892182956168607, 52.380116621284024 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 156, "KENTEKEN": "76-HK-TS", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.890937441055611, 52.380411755473972 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 157, "KENTEKEN": "00-KXN-4", "ONDERBORD1": "Wegsleepregeling", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.891221846858734, 52.380710270678314 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 158, "KENTEKEN": "98-HG-GS", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889657169100667, 52.379999396583187 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 159, "KENTEKEN": "27-JT-FZ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.891567591075121, 52.379518686688485 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 160, "KENTEKEN": "74-JZ-HL", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889213269310082, 52.376426779855464 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 161, "KENTEKEN": "52-TF-SZ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889819485991731, 52.379289682690384 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 162, "KENTEKEN": "56-JNL-4", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.890793294807644, 52.379345626841314 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 163, "KENTEKEN": "82-TP-VJ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.890852192835175, 52.379332227833174 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 164, "KENTEKEN": "ZG-BF-71", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889308332389271, 52.3793995529334 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 165, "KENTEKEN": "74-RG-LJ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889334753067711, 52.379333848765029 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 166, "KENTEKEN": "57-NK-LG", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889191031999794, 52.379267429174902 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 167, "KENTEKEN": "76-GTR-6", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.886065526739921, 52.375789524819496 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 168, "KENTEKEN": "99-RZ-GG", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.886027720088245, 52.377629440144112 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 169, "KENTEKEN": "28-DF-SH", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.887457169398232, 52.379191258388907 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 170, "KENTEKEN": "61-PN-PN", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.887783270416574, 52.379544456366773 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 171, "KENTEKEN": "42-LN-SV", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889434029596337, 52.379791738829979 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 172, "KENTEKEN": "63-LTK-6", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889551725647996, 52.379724898032087 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 173, "KENTEKEN": "HV-FF-43", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.886364088801638, 52.379882245885085 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 174, "KENTEKEN": "75-PX-KZ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.885606815456311, 52.377705117873887 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 175, "KENTEKEN": "NP-09-BK", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.878046714588471, 52.375735096919193 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 176, "KENTEKEN": "79-VS-DF", "ONDERBORD1": "-->", "ONDERBORD2": "Wegsleepregeling", "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.878305611180494, 52.376137324494984 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 177, "KENTEKEN": "39-FN-BF", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879161854919968, 52.377479979474685 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 178, "KENTEKEN": "XT-HT-34", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/05" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.880737964942545, 52.378766718892052 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 179, "KENTEKEN": "70-RP-LR", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.88696706567622, 52.38116352690723 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 180, "KENTEKEN": "98-LFJ-4", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.883096203586606, 52.383325917275727 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 181, "KENTEKEN": "HJ-ZH-03", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.883553108136719, 52.382173451452111 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 182, "KENTEKEN": "15-VV-VF", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": "Wegsleepregeling van kracht", "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.884391520658578, 52.382296737618795 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 183, "KENTEKEN": "94-HX-NR", "ONDERBORD1": "Wegsleepregeling", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.883828193309826, 52.382029692731301 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 184, "KENTEKEN": "65-LF-DX", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.883739096818765, 52.382016711515753 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 185, "KENTEKEN": "SZ-BG-97", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.883918718580721, 52.381651514292102 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 186, "KENTEKEN": "71-FH-NS", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882530072631257, 52.381432863185637 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 187, "KENTEKEN": "02-SK-VZ", "ONDERBORD1": "Wegsleepregeling", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882383437831246, 52.38141718710984 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 188, "KENTEKEN": "CANTA", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882317326715904, 52.381440410039723 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 189, "KENTEKEN": "03-JXJ-7", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.881517826792536, 52.380815801052904 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 190, "KENTEKEN": "84-LV-NH", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.881474440702185, 52.380751441307282 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 191, "KENTEKEN": "81-GT-KK", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882035916461394, 52.380834534732713 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 192, "KENTEKEN": "RF-NR-32", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882468645140105, 52.380899257304904 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 193, "KENTEKEN": "77-LZ-JT", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.884058471646812, 52.38113393341019 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 194, "KENTEKEN": "CANTA", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.88519224393571, 52.380860259173915 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 195, "KENTEKEN": "CANTA", "ONDERBORD1": "<-", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.884355048654888, 52.380733206074169 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 196, "KENTEKEN": "NR-PD-55", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.883495037797513, 52.380574340247648 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 197, "KENTEKEN": "21-LJH-7", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.881997563824933, 52.380353503143418 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 198, "KENTEKEN": "PF-NT-95", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.881925390530923, 52.380344850542848 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 199, "KENTEKEN": "CANTA", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.881476207600366, 52.380273672329821 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 200, "KENTEKEN": "92-GP-JJ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.881079504509116, 52.379783463969119 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 201, "KENTEKEN": "71-SX-ZB", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.886354763171873, 52.380566549049696 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 202, "KENTEKEN": "05-HBS-7", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882074316061702, 52.379746533252245 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 203, "KENTEKEN": "24-TR-SF", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882729316452584, 52.379840832948233 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 204, "KENTEKEN": "89-XG-ZG", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.88413442791606, 52.380049270870813 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 205, "KENTEKEN": "PD-TS-74", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.885893693983489, 52.379777716816839 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 206, "KENTEKEN": "39-KLJ-8", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.884806366477013, 52.379582089684114 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 207, "KENTEKEN": "81-GTD-5, DR-26-51", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.883994402364018, 52.379432697892923 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 208, "KENTEKEN": "10-SH-VN", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882899269887558, 52.379142160170474 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 209, "KENTEKEN": "65-ZF-PN", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882132785350581, 52.378964942608874 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 210, "KENTEKEN": "94-NDG-8", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.88046949564066, 52.377960942126101 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 211, "KENTEKEN": "70-ND-NG", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.880402371247154, 52.377947333810837 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 212, "KENTEKEN": "CANTA", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879559123230488, 52.377625227575862 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 213, "KENTEKEN": "50-LDN-1", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.88273955247812, 52.378197860653387 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 214, "KENTEKEN": "86-LT-DX", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.885078572978499, 52.378629068731435 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 215, "KENTEKEN": "13-JH-SV", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.885268169231883, 52.378663090689606 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 216, "KENTEKEN": "01-GGN-3", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.885937892236695, 52.378785210950461 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 217, "KENTEKEN": "VX-VS-21", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.88522523066602, 52.378833785423517 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 218, "KENTEKEN": "38-PSR-6", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.884377937092302, 52.378677299348773 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 219, "KENTEKEN": "XT-SJ-78", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882860866719974, 52.378401736480726 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 220, "KENTEKEN": "CANTA", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882812105218754, 52.378393066172016 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 221, "KENTEKEN": "XX-RX-63", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882757844758006, 52.378381551544663 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 222, "KENTEKEN": "CANTA", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.885125103703214, 52.379247876589709 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 223, "KENTEKEN": "CANTA", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.885171908730748, 52.379255088874388 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 224, "KENTEKEN": "52-TP-GT", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.885594782549719, 52.378230317171294 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 225, "KENTEKEN": "35-JF-VX", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.885390156983189, 52.378183714384498 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 226, "KENTEKEN": "94-PG-SF", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882894906935456, 52.377643116366897 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 227, "KENTEKEN": "89-HRK-6", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882334998267878, 52.377526839289743 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 228, "KENTEKEN": "52-SZ-TF", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.881137796194642, 52.377270630151102 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 229, "KENTEKEN": "54-LH-LS", "ONDERBORD1": "Wegsleepregeling", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.880231679171461, 52.376611328993185 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 230, "KENTEKEN": "CANTA", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.884144948941874, 52.377431203345338 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 231, "KENTEKEN": "XP-XD-41", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.884280931352315, 52.377456601252618 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 232, "KENTEKEN": "CA-28-81", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.884525285627833, 52.37751025782628 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 233, "KENTEKEN": "46-JR-RH", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879872615639286, 52.375572716415846 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 234, "KENTEKEN": "12-XX-BG", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.883907035001911, 52.376442783241579 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 235, "KENTEKEN": "RR-BT-52", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882195016915945, 52.375101978240885 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 236, "KENTEKEN": "35-TH-NX", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.880801437783651, 52.374786292726171 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 237, "KENTEKEN": "79-FX-TX, 91-VX-VJ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879880981752903, 52.374577078032949 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 238, "KENTEKEN": "35-TP-GF", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879738464924507, 52.374544279305084 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 239, "KENTEKEN": "73-YB-08, 90-ZR-24, 58-SLT-8", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879472194378178, 52.374486656965985 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 240, "KENTEKEN": "PH-DR-49", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": "gelieve geen rijwielen te plaatsen", "CREATE_DAT": "2012\/12\/10" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.877619506800092, 52.374059646436834 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 241, "KENTEKEN": "57-GB-BP", "ONDERBORD1": "ma t\/m vr, 8.00-18.00h", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.894175710376061, 52.365125878955347 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 242, "KENTEKEN": "91-XD-LJ", "ONDERBORD1": "Ma t\/m Vrij. 07.00-17.00", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.890830347458266, 52.371747958412101 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 243, "KENTEKEN": "63-LP-LB", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889606407810941, 52.369733763541504 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 244, "KENTEKEN": "60-VHB-2", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889300850121734, 52.371432859999722 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 245, "KENTEKEN": "RR-PD-46", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.88811135895134, 52.36907272388855 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 246, "KENTEKEN": "06-GDF-5", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.890562246169405, 52.365635499373454 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 247, "KENTEKEN": "57-SN-FH", "ONDERBORD1": "MA T\/M ZO, 09.00-19.00", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.892021547970285, 52.366215858998835 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 248, "KENTEKEN": "29-JLP-3", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.88806133420391, 52.368266579126356 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 249, "KENTEKEN": "09-SLD-7", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.88767148257405, 52.368603948193368 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 250, "KENTEKEN": "68-NF-LP", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.887683263118266, 52.369304767803953 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 251, "KENTEKEN": "44-RPJ-9, TL-SP-90", "ONDERBORD1": "Di t\/m Za 08.00-17.00", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.887982001942708, 52.37086598374848 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 252, "KENTEKEN": "61-VG-NR", "ONDERBORD1": "Ma t\/m Za, 09:00-18:30", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.888258595214024, 52.372334507389219 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 253, "KENTEKEN": "21-SK-JX", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.887075022428314, 52.370075131526306 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 254, "KENTEKEN": "75-PZ-NP", "ONDERBORD1": "Ma t\/m Vr, 08:30-18:00u", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.887444259002293, 52.367063253266515 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 255, "KENTEKEN": "JH-HH-08", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.885624523549448, 52.36726988610063 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 256, "KENTEKEN": "50-HR-VK", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.886531426111468, 52.36867218589633 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 257, "KENTEKEN": "XD-LD-74", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.886998923757972, 52.373650838043559 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 258, "KENTEKEN": "12-GV-DX", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.88967414257962, 52.376405862367271 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 259, "KENTEKEN": "07-FD-BZ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.884753263467741, 52.368618778664498 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 260, "KENTEKEN": "27-DN-FF", "ONDERBORD1": "Geen fietsen plaatsen", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/11" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.885854570705255, 52.366487041363563 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 261, "KENTEKEN": "75-PD-RB", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.885148491174229, 52.374771067634505 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 262, "KENTEKEN": "SP-PZ-61", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.884373369686566, 52.369455296093662 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 263, "KENTEKEN": "41-GFT-9, 58-NDV-9", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.884308316210038, 52.368745825381907 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 264, "KENTEKEN": "89-GS-JR", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.884305869773025, 52.368715011329456 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 265, "KENTEKEN": "38-NNS-4", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882635889342017, 52.366706095483039 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 266, "KENTEKEN": "29-PN-GR", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.883572347882338, 52.365789395035577 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 267, "KENTEKEN": "70-PV-JT", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.884787397448153, 52.365783555363734 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 268, "KENTEKEN": "TZ-HH-27", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.881637159152246, 52.365658929427376 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 269, "KENTEKEN": "07-FR-XT", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882937983078092, 52.370285922861143 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 270, "KENTEKEN": "Amico", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.88305888696187, 52.371506695014062 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 271, "KENTEKEN": "84-FF-TR", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.883102277376269, 52.371996442609579 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 272, "KENTEKEN": "HR-XD-79", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.88322680956075, 52.373471212950498 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 273, "KENTEKEN": "34-KKS-1, 36-HK-ZS", "ONDERBORD1": "Wegsleepregeling", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882895715130636, 52.374357861798813 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 274, "KENTEKEN": "19-JRN-1", "ONDERBORD1": "Ma t\/m Vr, 08:00-18:00h", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882914518485409, 52.374558746445238 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 275, "KENTEKEN": "LD-FJ-99", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.881594326936747, 52.3754409275166 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 276, "KENTEKEN": "21-XH-DX", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.881514745934846, 52.375424472395316 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 277, "KENTEKEN": "74-JH-FK", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.881452944094026, 52.375410937033429 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 278, "KENTEKEN": "46-VHD-8", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879666187676407, 52.375013207229323 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 279, "KENTEKEN": "53-GJ-KT", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879605139686269, 52.375001570045768 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 280, "KENTEKEN": "40-FG-HZ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.878069532610847, 52.376999575889315 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 281, "KENTEKEN": "69-JP-VL", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.878283722814309, 52.376478151392611 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 282, "KENTEKEN": "66-TD-ZF", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.876945626869199, 52.376172824861506 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 283, "KENTEKEN": "65-ST-XD", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.8752784005493, 52.372161542771686 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 284, "KENTEKEN": "TF-TB-91", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879800813224934, 52.374412533339402 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 285, "KENTEKEN": "XZ-RZ-78", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.880344758189077, 52.373915515515208 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 286, "KENTEKEN": "JF-DD-97", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879481463750024, 52.373715936156508 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 287, "KENTEKEN": "04-SZ-RN", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.877921724509565, 52.373357542746135 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 288, "KENTEKEN": "CANTA", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.877860054618684, 52.37334392196977 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 289, "KENTEKEN": "19-JG-HX", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.877502192353406, 52.373259281075612 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 290, "KENTEKEN": "25-HD-GF", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.877424780956303, 52.373244108362407 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 291, "KENTEKEN": "VT-ZL-16", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.877348598886104, 52.373227456946246 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 292, "KENTEKEN": "22-LR-VR", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.877282089016425, 52.373213073053499 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 293, "KENTEKEN": "46-NP-ZD", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.881084420742829, 52.37358256588012 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 294, "KENTEKEN": "RF-TV-88", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882266135685275, 52.373712262487949 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 295, "KENTEKEN": "84-RLB-2", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879505146176865, 52.373023777219998 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 296, "KENTEKEN": "28-XB-TR", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.877994140591793, 52.372646302298207 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 297, "KENTEKEN": "74-ZG-ZJ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.8763573601467, 52.371855886639281 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 298, "KENTEKEN": "52-LFJ-1", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/12" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.878012883692025, 52.370755654081201 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 299, "KENTEKEN": "RX-XR-23", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882717787411994, 52.372609068802852 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 300, "KENTEKEN": "08-NG-XT", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.882716348582123, 52.372631518170898 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 301, "KENTEKEN": "RJ-ZR-25", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.881535807340488, 52.372890877767183 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 302, "KENTEKEN": "77-HP-ZN", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.880301509934263, 52.372571223066274 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 303, "KENTEKEN": "57-VS-DP", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879910925352653, 52.372470311456745 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 304, "KENTEKEN": "56-PSN-1", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879137970904732, 52.37227503893844 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 305, "KENTEKEN": "GT-XB-10", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.878695478363906, 52.372160137498071 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 306, "KENTEKEN": "32-LL-KR", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.878514936684484, 52.372113726604773 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 307, "KENTEKEN": "82-NBF-2", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.878263597421425, 52.372048901862875 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 308, "KENTEKEN": "RH-DS-08", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.877912353844735, 52.371408496102816 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 309, "KENTEKEN": "16-LLR-5", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.881664533037739, 52.372395957697634 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 310, "KENTEKEN": "36-XSK-9", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.880155949210566, 52.366281931594159 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 311, "KENTEKEN": "ZJ-ST-87", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879288568273975, 52.36557497863344 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 312, "KENTEKEN": "17-NT-NX", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.878791388973474, 52.366133140796499 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 313, "KENTEKEN": "86-RN-SX", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.88158318183492, 52.368481863455337 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 314, "KENTEKEN": "41-ZL-NG", "ONDERBORD1": "Verboden rijwielen te plaatsen", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879471872742733, 52.367955225059461 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 315, "KENTEKEN": "TN-DB-33, 84-JS-TV, 15-RP-DB", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.880020504307323, 52.368788196531618 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 316, "KENTEKEN": "RB-DJ-38", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.879154061074802, 52.369148645173937 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 317, "KENTEKEN": "42-BZ-BD", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.881525256962918, 52.37073666394609 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 318, "KENTEKEN": "HD-XT-99", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.87820620008426, 52.370646025541745 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 319, "KENTEKEN": "NL-PP-42", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889058368228059, 52.359780838995533 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 320, "KENTEKEN": "38-GP-GX", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889044813332513, 52.359759897293458 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 321, "KENTEKEN": "72-DR-NP", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.88895463549694, 52.359646651731325 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 322, "KENTEKEN": "99-RZ-JD", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889081487601549, 52.359402346209826 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 323, "KENTEKEN": "CA3989", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889682536501739, 52.359263230382005 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 324, "KENTEKEN": "90-PLG-1", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.886398087359111, 52.361726859084193 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 325, "KENTEKEN": "36-LJF-8", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.886446068990056, 52.361957947741097 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 326, "KENTEKEN": "02-STR-2", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.887058200989201, 52.362044234236777 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 327, "KENTEKEN": "TD-RS-61, 82-PG-VV", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.887377992374768, 52.362396830358456 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 328, "KENTEKEN": "84-ZR-LV", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": "Tijdelijke laad\/losplaats m.i.v. 3-9-2012", "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.887482215905158, 52.362502367424227 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 329, "KENTEKEN": "62-SGZ-5", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.887317862469462, 52.363323090147929 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 330, "KENTEKEN": "59-PN-TN", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.887286000766264, 52.36334415940312 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 331, "KENTEKEN": "65-TP-NT, 10-PK-PR", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.885366729915789, 52.364620810322705 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 332, "KENTEKEN": "XG-GB-16", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.885189271053541, 52.364737434171296 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 333, "KENTEKEN": "61-LX-KD", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/13" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.885134939585509, 52.364771421921887 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 334, "KENTEKEN": "39-FD-SX", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.887593837562974, 52.365499339288725 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 335, "KENTEKEN": "24-TL-VL", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.88768133615181, 52.365449119780422 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 336, "KENTEKEN": "TS-RT-52", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.895467158638486, 52.363584343285545 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 337, "KENTEKEN": null, "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": "onleesbaar", "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.895233224023286, 52.364720821798294 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 338, "KENTEKEN": "29-TS-NB", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.89732360357166, 52.36377687576843 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 339, "KENTEKEN": "JV-DR-50", "ONDERBORD1": "Ma t\/m Za  06:00-18:00u", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.897852930164139, 52.363877894361686 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 340, "KENTEKEN": "AH-69-47", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.898749477074038, 52.364044151386004 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 341, "KENTEKEN": null, "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": "afgeplakt", "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.899346097046334, 52.364172018882883 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 342, "KENTEKEN": "38-STH-6", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.900199546389037, 52.364319147591715 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 343, "KENTEKEN": "74-RB-JF", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.897117965809023, 52.364868555905694 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 344, "KENTEKEN": "77-NB-VN", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.897065181697656, 52.364857203544439 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 345, "KENTEKEN": "81-TBJ-2", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.900480754825649, 52.36406690858071 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 346, "KENTEKEN": "97-PR-TN", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.900441800581371, 52.364059921627522 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 347, "KENTEKEN": "32-GDV-6", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.899041866469952, 52.363792008395691 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 348, "KENTEKEN": "6-VSX-58", "ONDERBORD1": "Ma.t\/m za.  8.00 tot 17.30h", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.898889419315514, 52.363762024463547 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 349, "KENTEKEN": "59-HFD-4", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.897391601232401, 52.363482818432402 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 350, "KENTEKEN": "65-ZG-ZD", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.896888796500074, 52.363381883259905 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 351, "KENTEKEN": "SZ-GX-88", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889782197149485, 52.362576395903233 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 352, "KENTEKEN": "07-TJ-VN", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889573900150555, 52.362346008128696 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 353, "KENTEKEN": "21-PF-JT", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889064060223554, 52.36221899534052 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 354, "KENTEKEN": "VV-TX-94", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.890079530131962, 52.363185177747354 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 355, "KENTEKEN": "96-XNL-1", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889911307292595, 52.36320962843719 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 356, "KENTEKEN": "64-PL-RB", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889388747032808, 52.363285091424487 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 357, "KENTEKEN": "HH-GJ-98", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.888971865316567, 52.363336933494125 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 358, "KENTEKEN": "PD-RX-33", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.888013781133712, 52.363850260779216 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 359, "KENTEKEN": "77-HXS-6", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.886272220291333, 52.364914819935386 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 360, "KENTEKEN": "40-XX-BP", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.886660717811855, 52.365638365085452 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 361, "KENTEKEN": "04-RGT-5", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.887187611779956, 52.365339799059818 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 362, "KENTEKEN": "19-GN-KG", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.888788199226952, 52.36441791974709 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 363, "KENTEKEN": "48-LS-FF", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.889092047173263, 52.364249660944921 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 364, "KENTEKEN": "30-XX-SP", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/14" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.891573314593863, 52.363814901714868 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 365, "KENTEKEN": "88-LP-HJ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/17" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.89333615391506, 52.361815778335163 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 366, "KENTEKEN": "81-FP-JZ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/17" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.893616786601405, 52.361778118352909 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 367, "KENTEKEN": "79-JH-ZN", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": "geen (brom)fietsen plaatsen", "CREATE_DAT": "2012\/12\/17" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.894546740096927, 52.359924330024818 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 368, "KENTEKEN": "91-PHR-9", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": "geen (brom)fietsen plaatsen", "CREATE_DAT": "2012\/12\/17" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.894344918219561, 52.359929615226534 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 369, "KENTEKEN": "60-SKL-4", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/17" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.892473398596471, 52.360434289856443 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 370, "KENTEKEN": "LR-JZ-57", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/17" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.893149117884755, 52.359561163799199 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 371, "KENTEKEN": "46-KBV-8", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/17" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.894596549215574, 52.358287470035336 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 372, "KENTEKEN": "GR-TB-35", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/17" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.89728292490121, 52.358723947708206 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 373, "KENTEKEN": "99-XL-PX", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/17" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.902435479761524, 52.359440139708425 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 374, "KENTEKEN": "39-KFG-8", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/17" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.898107846018799, 52.360293283484388 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 375, "KENTEKEN": "78-XV-NS", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/17" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.897403196768275, 52.359960435799337 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 376, "KENTEKEN": "VN-1?-LF", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/17" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.898007094636394, 52.361284754875904 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 377, "KENTEKEN": "21-GR-JJ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/17" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.901962149847114, 52.362004021803003 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 378, "KENTEKEN": "10-DJ-HZ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": "wegsleepregeling", "CREATE_DAT": "2012\/12\/17" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.898457036193097, 52.362157713958354 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 379, "KENTEKEN": "BR-57-TH", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/17" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.899712360552879, 52.362375881168305 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 380, "KENTEKEN": "32-XP-JK  25-LZ-ST", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/17" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.899756463505453, 52.362382824397351 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 381, "KENTEKEN": "32-SJV-9", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/17" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.901835613728076, 52.362512230960228 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 382, "KENTEKEN": "LN-LH-22  30-NDN-3", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.901584687027145, 52.363796670483048 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 383, "KENTEKEN": "TN-TB-45", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.905057205106186, 52.364057508831898 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 384, "KENTEKEN": "75-RG-GH", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.905263256284027, 52.364146302306352 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 385, "KENTEKEN": "68-NXF-6", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.905232986391141, 52.364088488487788 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 386, "KENTEKEN": "89-BG-BK", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.905314708091713, 52.364103007360669 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 387, "KENTEKEN": "63-LT-TT", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.905399478421236, 52.364121321573386 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 388, "KENTEKEN": "72-VS-PN", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.905482734796845, 52.364136792322732 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 389, "KENTEKEN": "94-HXV-4", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.90701990881247, 52.364422032388596 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 390, "KENTEKEN": "21-ZB-DT", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.904500262914442, 52.364839263987101 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 391, "KENTEKEN": "98-FJ-GZ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.902799015018258, 52.364299859676052 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 392, "KENTEKEN": "XT-NB-71", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.902848061133143, 52.364194136614614 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 393, "KENTEKEN": "09-ZP-XB", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.902873325545731, 52.36414411535128 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 394, "KENTEKEN": "41-FH-PD", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.902894630050587, 52.363890742148712 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 395, "KENTEKEN": "54-TZ-JS", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.907264139914879, 52.366192181352396 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 396, "KENTEKEN": "53-PG-DN", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.907431165898674, 52.365699968791823 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 397, "KENTEKEN": "Canta CA-32-05", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.908914622147331, 52.366671802401527 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 398, "KENTEKEN": "49-RTF-4", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.911262854055569, 52.3653943108555 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 399, "KENTEKEN": "FR-LT-87", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.914067534250765, 52.364485316838199 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 400, "KENTEKEN": "60-GVP-2", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.91611803667945, 52.363719945616637 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 401, "KENTEKEN": "77-GSJ-5", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.916543325290293, 52.363892043296801 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 402, "KENTEKEN": "13-KVN-9", "ONDERBORD1": "Ma t\/m Vr  08:00-19:00u", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.917323899683355, 52.364423403180524 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 403, "KENTEKEN": "51-DJ-GK", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.909428220350113, 52.36911898168654 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 404, "KENTEKEN": "53-GH-XS", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.912562079558902, 52.367395243604065 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 405, "KENTEKEN": "14-ND-FG", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.910069039219016, 52.369604329194402 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 406, "KENTEKEN": "79-PD-LN", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.91244150202645, 52.369622898930757 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 407, "KENTEKEN": "XP-VG-26", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.915230975862504, 52.368359395516492 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 408, "KENTEKEN": "YH-71-NV  12-VJ-TX", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.915907376311028, 52.368124221058444 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 409, "KENTEKEN": "LJ-FD-03", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.91771939045598, 52.367486062820539 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 410, "KENTEKEN": "34-HN-FB", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.913294823057969, 52.369560075506314 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 411, "KENTEKEN": "11-ZR-DZ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.908710536340807, 52.369493602534298 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 412, "KENTEKEN": "PB-ZG-11", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.908653470688849, 52.369468512512441 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 413, "KENTEKEN": "37-HT-ND", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.908584476347206, 52.369441911926479 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 414, "KENTEKEN": "44-KDX-4", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.908256212386171, 52.369310438290896 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 415, "KENTEKEN": "RX-XZ-29", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.907078819375102, 52.368833341233888 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 416, "KENTEKEN": "18-LK-GZ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": "wegsleepregeling van kracht", "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.906946836690983, 52.369713666293563 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 417, "KENTEKEN": "CA-30-11", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/18" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.9066730672046, 52.367589653547697 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 418, "KENTEKEN": "15-NF-LZ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/19" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.924796575511422, 52.365966709671774 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 419, "KENTEKEN": "90-SF-RX", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/19" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.924462200850408, 52.365769197133403 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 420, "KENTEKEN": "26-RR-GS", "ONDERBORD1": "ma.t\/m vr. 8.00-18.00hr", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/19" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.923526728168845, 52.36561500090464 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 421, "KENTEKEN": "15-GR-LV", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/19" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.922123772636108, 52.364762400728466 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 422, "KENTEKEN": "TX-HP-26", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/19" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.921028382325756, 52.363611429220143 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 423, "KENTEKEN": "ZD-SJ-60", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/19" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.914326223971346, 52.362016942866198 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 424, "KENTEKEN": "33-XD-RF", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/19" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.914295417847032, 52.362012554713935 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 425, "KENTEKEN": "47-HP-NL", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/19" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.909854246852156, 52.360841934977827 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 426, "KENTEKEN": "RP-RB-03", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/19" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.904033867803556, 52.361674533821194 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 427, "KENTEKEN": "74-RG-LJ", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/19" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.904932961013956, 52.363342851158414 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 428, "KENTEKEN": "GS-VJ-30", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": "wegsleepregeling", "CREATE_DAT": "2012\/12\/19" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.904575659763134, 52.361732327195256 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 429, "KENTEKEN": "78-RS-ZH", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/19" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.921535516566991, 52.3677255801718 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 430, "KENTEKEN": "02-PGF-1", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/19" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.917427056881172, 52.368635994031678 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 431, "KENTEKEN": "CANTA", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/19" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.915009993584524, 52.369440335907022 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 432, "KENTEKEN": "25-GBT-1", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/19" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.917383863166929, 52.369352801800318 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 433, "KENTEKEN": "SP-JZ-57", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/19" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.918155781176549, 52.369079095250683 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 434, "KENTEKEN": "88-VXT-9", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.932751308819237, 52.368972706640442 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 435, "KENTEKEN": "19-LXT-7", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.932598867276518, 52.368605930027243 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 436, "KENTEKEN": "PJ-RL-27", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.932437785630184, 52.368320389643159 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 437, "KENTEKEN": "TJ-HL-11", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.932463858002007, 52.368367339340097 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 438, "KENTEKEN": "20-KGF-9", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.932571262091027, 52.368556106137262 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 439, "KENTEKEN": "17-TJL-1", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.932548313340653, 52.368509168460882 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 440, "KENTEKEN": "88-NX-VP  14-XS-RT", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.932494606387821, 52.368415263101973 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 441, "KENTEKEN": "88-NX-VP  14-XS-RT", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.932525335242427, 52.368465099007039 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 442, "KENTEKEN": "XZ-NB-24", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.932310264117286, 52.368113379267569 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 443, "KENTEKEN": "06-LV-88", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.931073983763571, 52.367427870151985 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 444, "KENTEKEN": "94-LPN-4", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.930187636994222, 52.367498072984191 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 445, "KENTEKEN": "47-TZK-8", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.930097067264068, 52.36749581112867 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 446, "KENTEKEN": "09-JB-RX", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.930000249997057, 52.367493525078999 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 447, "KENTEKEN": "52-DT-ZN", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.928822696318803, 52.367478454822049 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 448, "KENTEKEN": "15-RRZ-1", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.928530643445017, 52.367475411560065 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 449, "KENTEKEN": "10-JX-PS", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.929989709063586, 52.370638141532297 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 450, "KENTEKEN": "ZG-XT-57", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.928582625633481, 52.370152730968051 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 451, "KENTEKEN": "23-DJ-TH", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.927249320944815, 52.369333906548448 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 452, "KENTEKEN": "TJ-NB-89", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.926636271130418, 52.3689538585907 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 453, "KENTEKEN": "7-VFS-90", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.924381075022064, 52.368472562896599 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 454, "KENTEKEN": "34-ZDP-1", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.925126732299107, 52.367989411742414 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 455, "KENTEKEN": "55-HPN-1", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.924782669751024, 52.368950848143811 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 456, "KENTEKEN": "XR-RS-01", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.924537168793861, 52.36942894200709 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 457, "KENTEKEN": "73-BG-GK", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.923837545837494, 52.369339742910903 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 458, "KENTEKEN": "CANTA", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.922384788383027, 52.371232854760052 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 459, "KENTEKEN": "09-JS-KP", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.922690017387635, 52.371057303519528 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 460, "KENTEKEN": "CANTA", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.923685611887942, 52.373376389310693 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 461, "KENTEKEN": "XL-GD-37", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.919505068990093, 52.370309372750796 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 462, "KENTEKEN": "47-LSL-3", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.919405322110062, 52.373175647229807 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 463, "KENTEKEN": "ZH-PR-61", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.919618541476011, 52.373310966619606 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 464, "KENTEKEN": "30-XF-XF", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.922623773906249, 52.374039825393595 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 465, "KENTEKEN": "FX-HL-51", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.922762303709719, 52.373951268695649 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 466, "KENTEKEN": "50-HJJ-5", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.92219967649001, 52.373404695353152 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 467, "KENTEKEN": "40-HT-PP", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.922231365058334, 52.37342556914011 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 468, "KENTEKEN": "CANTA CA-32-79", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.92180753381928, 52.373526430278936 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 469, "KENTEKEN": "CANTA CA-33-52", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.921775435567833, 52.3735446123654 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 470, "KENTEKEN": "62-NTS-3", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.920067702632823, 52.372175485204515 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 471, "KENTEKEN": "DZ-PT-67", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/20" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.916503952562875, 52.370719703258928 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 472, "KENTEKEN": "75-TGH-5", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/21" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.908591851246655, 52.371260278560705 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 473, "KENTEKEN": "39-TN-BB", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/21" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.908372819092406, 52.371369006767033 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 474, "KENTEKEN": "SJ-JJ-47", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/21" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.906839949476168, 52.372592843979646 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 475, "KENTEKEN": "NG-LN-08", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/21" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.905932559938603, 52.372643628858931 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 476, "KENTEKEN": "58-JZ-NK", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/21" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.905449663185435, 52.372920218134517 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 477, "KENTEKEN": "77-TP-NP", "ONDERBORD1": null, "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/21" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.904459984578542, 52.373544611214733 ] ] } }
+,
+{ "type": "Feature", "properties": { "ID": 478, "KENTEKEN": "68-LJ-ZJ", "ONDERBORD1": "Di. t\/m Za  09.00-18.00h", "ONDERBORD2": null, "BESLUITNR": null, "OPMERKING": null, "CREATE_DAT": "2012\/12\/21" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.9069393622744, 52.373096724528949 ] ] } }
+
+]
+}
